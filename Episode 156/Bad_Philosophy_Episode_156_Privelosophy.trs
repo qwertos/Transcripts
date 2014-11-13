@@ -1,0 +1,2034 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Aaron Herting" audio_filename="Bad_Philosophy_Episode_156_Privelosophy" version="4" version_date="141113" xml:lang="en">
+<Speakers>
+<Speaker id="spk1" name="Stephen Torrence" check="no" type="male" dialect="native" accent="" scope="local"/>
+<Speaker id="spk2" name="Kevin Saunders" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="Music" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk4" name="speaker#4" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk5" name="speaker#5" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode program="" air_date="">
+<Section type="report" startTime="0" endTime="4483.958">
+<Turn startTime="0" endTime="13.016" speaker="spk3">
+<Sync time="0"/>
+[Intro Music] 
+</Turn>
+<Turn speaker="spk3 spk1" startTime="13.016" endTime="21.579">
+<Sync time="13.016"/>
+<Who nb="1"/>
+[Intro Music]
+<Who nb="2"/>
+BadPhilosophy, episode 156. Recored on September 27th, 2014. Privilosophy 
+</Turn>
+<Turn speaker="spk3" startTime="21.579" endTime="28.068">
+<Sync time="21.579"/>
+[Intro Music]
+</Turn>
+<Turn speaker="spk1" startTime="28.068" endTime="29.513">
+<Sync time="28.068"/>
+Hey what's up it's BadPhilosophy.
+</Turn>
+<Turn speaker="spk1 spk2" startTime="29.513" endTime="30.606">
+<Sync time="29.513"/>
+<Who nb="1"/>
+[Laughter]
+<Who nb="2"/>
+[Laughter]
+</Turn>
+<Turn speaker="spk1" startTime="30.606" endTime="33.078">
+<Sync time="30.606"/>
+I'm your host Stephen torrence, and I'm here with Kevin Saunders.
+</Turn>
+<Turn speaker="spk2" startTime="33.078" endTime="33.634">
+<Sync time="33.078"/>
+That's me
+</Turn>
+<Turn speaker="spk1" startTime="33.634" endTime="42.925">
+<Sync time="33.634"/>
+Yeah, we're outside at the [TODO: Lookup] in the domain at Austin Texas.
+<Sync time="38.473"/>
+Kevin just got off work. We have beers coming let's get this show on the road.
+</Turn>
+<Turn speaker="spk2" startTime="42.925" endTime="44.286">
+<Sync time="42.925"/>
+Um
+</Turn>
+<Turn speaker="spk1" startTime="44.286" endTime="45.397">
+<Sync time="44.286"/>
+So, Kevin
+</Turn>
+<Turn speaker="spk2" startTime="45.397" endTime="45.974">
+<Sync time="45.397"/>
+Yeah
+</Turn>
+<Turn speaker="spk1" startTime="45.974" endTime="50.115">
+<Sync time="45.974"/>
+Why don't you...
+<Sync time="47.252"/>
+I don't know. You can retell what
+</Turn>
+<Turn speaker="spk1 spk2" startTime="50.115" endTime="52.835">
+<Sync time="50.115"/>
+<Who nb="1"/>
+I did recently. Let me see how...
+<Who nb="2"/>
+[Chuckles] Let me tell your story.
+</Turn>
+<Turn speaker="spk1" startTime="52.835" endTime="53.638">
+<Sync time="52.835"/>
+Please tell my story.
+</Turn>
+<Turn speaker="spk2 spk1" startTime="53.638" endTime="54.7">
+<Sync time="53.638"/>
+<Who nb="1"/>
+Um...
+<Who nb="2"/>
+[Unintellagable]
+</Turn>
+<Turn speaker="spk2" startTime="54.7" endTime="88.709">
+<Sync time="54.7"/>
+Um, so as I am sure some of our long time listerners know
+<Sync time="58.36"/>
+um, one of the things that 
+<Sync time="60.781"/>
+doesn't quite predate Stephen and my's friendship
+<Sync time="63.655"/>
+but is almost as old as, our friendship
+<Sync time="66.489"/>
+um, is Stephen, for what had long time been a hobby, of 
+<Sync time="70.844"/>
+ASL signed videos. For lack of a better... That's what we're calling it.
+<Sync time="74.565"/>
+He would, use ASL to present a song,
+<Sync time="80.604"/>
+often from popular culture
+<Sync time="82.382"/>
+um, on Youtube
+<Sync time="83.643"/>
+So, certenly most well known for "Party in the USA",
+<Sync time="86.683"/>
+Uh, Miley Ciruses [TODO: Spell Check]
+</Turn>
+<Turn speaker="spk1" startTime="88.709" endTime="89.969">
+<Sync time="88.709"/>
+Moving my hips like yeah
+</Turn>
+<Turn speaker="spk2" startTime="89.969" endTime="90.486">
+<Sync time="89.969"/>
+Yeah
+</Turn>
+<Turn speaker="spk1" startTime="90.486" endTime="91.108">
+<Sync time="90.486"/>
+Yeah
+</Turn>
+<Turn speaker="spk2" startTime="91.108" endTime="93.058">
+<Sync time="91.108"/>
+Yeah
+<Sync time="92.078"/>
+Uh [Chuckles]
+</Turn>
+<Turn speaker="spk1" startTime="93.058" endTime="95.086">
+<Sync time="93.058"/>
+[Laughs]
+</Turn>
+<Turn speaker="spk2" startTime="95.086" endTime="97.528">
+<Sync time="95.086"/>
+And...
+<Sync time="96.618"/>
+Nodding my head like yeah
+</Turn>
+<Turn speaker="spk1" startTime="97.528" endTime="100.194">
+<Sync time="97.528"/>
+Nodding my head like yeah
+<Sync time="98.973"/>
+Moving my hips like yeah
+</Turn>
+<Turn speaker="spk2" startTime="100.194" endTime="101.207">
+<Sync time="100.194"/>
+Yeah, Yeah
+</Turn>
+<Turn speaker="spk1" startTime="101.207" endTime="103.419">
+<Sync time="101.207"/>
+Put my heands up 
+<Sync time="102.241"/>
+they're playing my song
+</Turn>
+<Turn speaker="spk2" startTime="103.419" endTime="103.787">
+<Sync time="103.419"/>
+Yeah
+</Turn>
+<Turn speaker="spk1" startTime="103.787" endTime="105.119">
+<Sync time="103.787"/>
+The butterflies come in?
+</Turn>
+<Turn speaker="spk1 spk2" startTime="105.119" endTime="107.144">
+<Sync time="105.119"/>
+<Who nb="1"/>
+What do the butterflies do? They're flyin' away.
+<Who nb="2"/>
+They fly away
+</Turn>
+<Turn speaker="spk1" startTime="107.144" endTime="109.072">
+<Sync time="107.144"/>
+That's what they're doing
+<Sync time="108.1"/>
+[Chuckles]
+</Turn>
+<Turn speaker="spk2" startTime="109.072" endTime="116.16">
+<Sync time="109.072"/>
+Anyway...
+<Sync time="110.168"/>
+Um, so you did that.
+<Sync time="111.367"/>
+Um, that in particular went viral as the kids say today
+<Sync time="115.044"/>
+Um...
+</Turn>
+<Turn speaker="spk1" startTime="116.16" endTime="117.007">
+<Sync time="116.16"/>
+Thank you AOL...
+</Turn>
+<Turn speaker="spk2" startTime="117.007" endTime="118.063">
+<Sync time="117.007"/>
+Was that AOL?
+</Turn>
+<Turn speaker="spk1" startTime="118.063" endTime="119.179">
+<Sync time="118.063"/>
+AOL Pop eater [TODO: Check this]
+</Turn>
+<Turn speaker="spk1 spk2" startTime="119.179" endTime="122.131">
+<Sync time="119.179"/>
+<Who nb="1"/>
+It's like their entertainment
+<Who nb="2"/>
+Oh, okay...
+<Sync time="120.585"/>
+<Who nb="1"/>
+their entertainment blog [unintellagable]
+<Who nb="2"/>
+okay, okay... I thought like you were 
+</Turn>
+<Turn speaker="spk2" startTime="122.131" endTime="123.861">
+<Sync time="122.131"/>
+saying AOL invented the term viral which
+</Turn>
+<Turn speaker="spk1" startTime="123.861" endTime="124.336">
+<Sync time="123.861"/>
+No...
+</Turn>
+<Turn speaker="spk2 spk1" startTime="124.336" endTime="126.053">
+<Sync time="124.336"/>
+<Who nb="1"/>
+didn't make sense to me
+<Who nb="2"/>
+[Laughter]
+</Turn>
+<Turn speaker="spk2" startTime="126.053" endTime="131.056">
+<Sync time="126.053"/>
+but, yeah, yeah. They linked to you
+<Sync time="128.12"/>
+and that was big enough that it spread from there.
+<Sync time="130.128"/>
+Really exciding.
+</Turn>
+<Turn speaker="spk1" startTime="131.056" endTime="131.449">
+<Sync time="131.056"/>
+Yeah
+</Turn>
+<Turn speaker="spk2" startTime="131.449" endTime="145.519">
+<Sync time="131.449"/>
+Uh, and these songs you did, for, mostly through collage
+<Sync time="136.22"/>
+and then, kind of, real life got in the way, so you kind of got out of it 
+<Sync time="138.845"/>
+for a while,
+<Sync time="139.775"/>
+with occational songs you put back on. And then,
+<Sync time="141.677"/>
+um, I guess 2 to 3 months ago? 
+<Sync time="143.742"/>
+Has it only been 2 to three months?
+</Turn>
+<Turn speaker="spk1" startTime="145.519" endTime="146.676">
+<Sync time="145.519"/>
+That?
+</Turn>
+<Turn speaker="spk2" startTime="146.676" endTime="147.999">
+<Sync time="146.676"/>
+That you created a patreon 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="147.999" endTime="148.764">
+<Sync time="147.999"/>
+<Who nb="1"/>
+Yes, yes
+<Who nb="2"/>
+page
+</Turn>
+<Turn speaker="spk2" startTime="148.764" endTime="159.842">
+<Sync time="148.764"/>
+Uh, so you used
+<Sync time="150.15"/>
+We've talked about patrieon [TODO: Spelling] on the show 
+<Sync time="151.597"/>
+and how it's this really neat idea 
+<Sync time="152.899"/>
+for funding things that are ongoing
+<Sync time="155.585"/>
+and wouldn't be funded through somthing like Kickstarter
+<Sync time="158.106"/>
+or potentially any other way at all.
+</Turn>
+<Turn speaker="spk1" startTime="159.842" endTime="160.359">
+<Sync time="159.842"/>
+Right
+</Turn>
+<Turn speaker="spk2" startTime="160.359" endTime="167.961">
+<Sync time="160.359"/>
+They didn't have other ways to make money.
+<Sync time="162.959"/>
+And not even make money persay, like it wasn't about being profitable
+<Sync time="165.997"/>
+it was about being sustainable.
+</Turn>
+<Turn speaker="spk1" startTime="167.961" endTime="168.519">
+<Sync time="167.961"/>
+Yeah
+</Turn>
+<Turn speaker="spk2" startTime="168.519" endTime="178.517">
+<Sync time="168.519"/>
+Um... And, so you created a patreon [TODO: Spelling] a few months ago
+<Sync time="171.989"/>
+for your ASL videos.
+<Sync time="173.207"/>
+'cause, you know, people have been asking for them to come back.
+<Sync time="175.17"/>
+Um, and you had 
+<Sync time="177.196"/>
+always enjoyed it.
+</Turn>
+<Turn speaker="spk1" startTime="178.517" endTime="182.134">
+<Sync time="178.517"/>
+Well and, the instigation was Polland.
+</Turn>
+<Turn speaker="spk2" startTime="182.134" endTime="188.42">
+<Sync time="182.134"/>
+Yes, yes. You went to Polland and performed at a 
+<Sync time="185.463"/>
+sign language concert?
+</Turn>
+<Turn speaker="spk1" startTime="188.42" endTime="189.269">
+<Sync time="188.42"/>
+Yes
+</Turn>
+<Turn speaker="spk2" startTime="189.269" endTime="223.604">
+<Sync time="189.269"/>
+And... Which is still a weird concept to me.
+<Sync time="192.098"/>
+Um... 
+<Sync time="194.042"/>
+And that kind of reignited your passion.
+<Sync time="196.711"/>
+Um, with this performance.
+<Sync time="199.764"/>
+Um...
+<Sync time="201.66"/>
+And so, you created this patreon, you were asking for money.
+<Sync time="204.532"/>
+You were making money. Like, I mean. You were...
+<Sync time="206.593"/>
+You were able to sustain yourself with this sort of 
+<Sync time="209.014"/>
+side project.
+<Sync time="210.256"/>
+It wasn't a full time job. It wasn't going to keep you alive
+<Sync time="212.406"/>
+Um, but it paid for itself.
+<Sync time="213.997"/>
+It was definately 
+<Sync time="215.609"/>
+able to sustain it self to put the 
+<Sync time="217.325"/>
+time and effort that you needed to put into it.
+<Sync time="219.122"/>
+to make these... And I will say the quality of them sky rocketed
+<Sync time="222.715"/>
+You know. If you look at...
+</Turn>
+<Turn speaker="spk1" startTime="223.604" endTime="224.513">
+<Sync time="223.604"/>
+Why thank you Kevin.
+</Turn>
+<Turn speaker="spk2" startTime="224.513" endTime="228.635">
+<Sync time="224.513"/>
+Um. You look at something you did 
+<Sync time="226.487"/>
+you know, in front of a bed sheet in your bedroom
+</Turn>
+<Turn speaker="spk1" startTime="228.635" endTime="229.152">
+<Sync time="228.635"/>
+[Laughter]
+</Turn>
+<Turn speaker="spk2 spk1" startTime="229.152" endTime="230.765">
+<Sync time="229.152"/>
+<Who nb="1"/>
+[unintellagable]
+<Who nb="2"/>
+I did...
+</Turn>
+<Turn speaker="spk1" startTime="230.765" endTime="233.452">
+<Sync time="230.765"/>
+I did literally hang bed sheets on the walls
+</Turn>
+<Turn speaker="spk2 spk1" startTime="233.452" endTime="235.288">
+<Sync time="233.452"/>
+<Who nb="1"/>
+Yeah, yeah. Um...
+<Who nb="2"/>
+for some of these.
+</Turn>
+<Turn speaker="spk2" startTime="235.288" endTime="242.958">
+<Sync time="235.288"/>
+Compaired to some of the later ones, which were shot in a studio, with studio
+<Sync time="238.142"/>
+quality lighting and video,
+<Sync time="240.334"/>
+um, made a big difference.
+<Sync time="241.904"/>
+Ah... beer's here.
+</Turn>
+<Turn speaker="spk1 spk2" startTime="242.958" endTime="245.125">
+<Sync time="242.958"/>
+<Who nb="1"/>
+[Celebratory Noises]
+<Who nb="2"/>
+Yay! Thank you.
+</Turn>
+<Turn speaker="spk2" startTime="245.125" endTime="254.85">
+<Sync time="245.125"/>
+And so this created an oppertunity which is what patreon is all about.
+<Sync time="250.009"/>
+It created a way for you to focus on
+<Sync time="253.65"/>
+the product first.
+</Turn>
+<Turn speaker="spk1" startTime="254.85" endTime="255.553">
+<Sync time="254.85"/>
+Yes
+</Turn>
+<Turn speaker="spk2" startTime="255.553" endTime="256.845">
+<Sync time="255.553"/>
+Um....
+</Turn>
+<Turn speaker="spk1" startTime="256.845" endTime="257.754">
+<Sync time="256.845"/>
+The art.
+</Turn>
+<Turn speaker="spk2" startTime="257.754" endTime="258.995">
+<Sync time="257.754"/>
+Well, I intentionally didn't
+</Turn>
+<Turn speaker="spk1 spk2" startTime="258.995" endTime="260.174">
+<Sync time="258.995"/>
+<Who nb="1"/>
+Okay, okay.
+<Who nb="2"/>
+use that word.
+</Turn>
+<Turn speaker="spk2" startTime="260.174" endTime="262.181">
+<Sync time="260.174"/>
+I've been avoiding that word throughout this entire thing.
+</Turn>
+<Turn speaker="spk1" startTime="262.181" endTime="262.574">
+<Sync time="262.181"/>
+Uhhhhhh...
+</Turn>
+<Turn speaker="spk2" startTime="262.574" endTime="264.454">
+<Sync time="262.574"/>
+Though I think it's a fair discripter.
+</Turn>
+<Turn speaker="spk1" startTime="264.454" endTime="265.157">
+<Sync time="264.454"/>
+[chuckles]
+</Turn>
+<Turn speaker="spk2" startTime="265.157" endTime="268.827">
+<Sync time="265.157"/>
+Um, I think it is possibly the most fair discripter
+<Sync time="268.109"/>
+that we could give it.
+</Turn>
+<Turn speaker="spk1 spk2" startTime="268.827" endTime="269.548">
+<Sync time="268.827"/>
+<Who nb="1"/>
+Okay.
+<Who nb="2"/>
+but it has a lot of
+</Turn>
+<Turn speaker="spk2" startTime="269.548" endTime="271.098">
+<Sync time="269.548"/>
+contingencies around the
+</Turn>
+<Turn speaker="spk1 spk2" startTime="271.098" endTime="271.761">
+<Sync time="271.098"/>
+<Who nb="1"/>
+It sure does.
+<Who nb="2"/>
+termonology.
+</Turn>
+<Turn speaker="spk2" startTime="271.761" endTime="278.16">
+<Sync time="271.761"/>
+That's why I was avoiding it.
+<Sync time="273.25"/>
+Um, but these videos you created,
+<Sync time="275.079"/>
+which I would,
+<Sync time="276.403"/>
+without hesitation, would call a peice of art.
+</Turn>
+<Turn speaker="spk1" startTime="278.16" endTime="278.574">
+<Sync time="278.16"/>
+Okay
+</Turn>
+<Turn speaker="spk2" startTime="278.574" endTime="283.869">
+<Sync time="278.574"/>
+Um, that doesn't mean
+<Sync time="280.994"/>
+this other stuff is not at all valid that came up afterwords.
+</Turn>
+<Turn speaker="spk1 spk2" startTime="283.869" endTime="286.056">
+<Sync time="283.869"/>
+<Who nb="1"/>
+So, what happend Kevin?
+<Who nb="2"/>
+So...
+</Turn>
+<Turn speaker="spk2" startTime="286.056" endTime="289.982">
+<Sync time="286.056"/>
+Um, an ASL interperater, not Stephen,
+<Sync time="288.578"/>
+'cause he's not an ASL interperater.
+</Turn>
+<Turn speaker="spk1" startTime="289.982" endTime="290.172">
+<Sync time="289.982"/>
+Nope
+</Turn>
+<Turn speaker="spk2" startTime="290.172" endTime="302.387">
+<Sync time="290.172"/>
+And, you've always been very straight forward about that.
+<Sync time="291.456"/>
+You're not a CODA. You're not Deaf.
+<Sync time="293.255"/>
+Um, you have no real connection to the Deaf community.
+<Sync time="296.375"/>
+Um, which has come up before. I remember you being, kind of, critiqued about that in the past,
+<Sync time="301.664"/>
+back in college
+</Turn>
+<Turn speaker="spk1 spk2" startTime="302.387" endTime="303.483">
+<Sync time="302.387"/>
+<Who nb="1"/>
+Yeah...
+<Who nb="2"/>
+people asked you about it.
+</Turn>
+<Turn speaker="spk2" startTime="303.483" endTime="310.941">
+<Sync time="303.483"/>
+Um, and just kinda handwaved, and goes 'Well ya'know, it's art.'
+<Sync time="308.255"/>
+Um, and the...
+</Turn>
+<Turn speaker="spk1" startTime="310.941" endTime="313.836">
+<Sync time="310.941"/>
+I wasn't asking for money in college, 'cause I was in college
+</Turn>
+<Turn speaker="spk1 spk2" startTime="313.836" endTime="320.435">
+<Sync time="313.836"/>
+<Who nb="1"/>
+I had, you know the
+<Who nb="2"/>
+Yeah, you had money.
+<Sync time="315.513"/>
+<Who nb="1"/>
+student library's 
+<Who nb="2"/>
+[chuckles]
+<Sync time="316.94"/>
+<Who nb="1"/>
+camera
+<Who nb="2"/>
+Yeah, we had
+<Sync time="318.325"/>
+<Who nb="1"/>
+and lighting [unintellagable]. Yeah.
+<Who nb="2"/>
+ways to succeed.
+</Turn>
+<Turn speaker="spk2" startTime="320.435" endTime="322.852">
+<Sync time="320.435"/>
+That's how we recorded how many episodes of Bad Philosophy.
+</Turn>
+<Turn speaker="spk1" startTime="322.852" endTime="325.602">
+<Sync time="322.852"/>
+Oh my god. Our audio quality has never been as good
+</Turn>
+<Turn speaker="spk2 spk1" startTime="325.602" endTime="327.607">
+<Sync time="325.602"/>
+<Who nb="1"/>
+Never. Never
+<Who nb="2"/>
+since. [chuckles]
+</Turn>
+<Turn speaker="spk2" startTime="327.607" endTime="341.186">
+<Sync time="327.607"/>
+Um, and so, it was kind of this
+<Sync time="331.307"/>
+liminal space. It was a hobby. It was sort of his practice.
+<Sync time="334.056"/>
+And so around the time you started your patreon
+<Sync time="337.322"/>
+um, unrelated to that,
+<Sync time="339.635"/>
+Um, I don't know
+</Turn>
+<Turn speaker="spk1 spk2" startTime="341.186" endTime="342.82">
+<Sync time="341.186"/>
+<Who nb="1"/>
+Couple months later... Yeah.
+<Who nb="2"/>
+how close it was to that. Couple months later
+</Turn>
+<Turn speaker="spk2" startTime="342.82" endTime="357.208">
+<Sync time="342.82"/>
+Alright. I don't know how recent this other stuff was.
+<Sync time="344.968"/>
+Um, an ASL interperater
+<Sync time="346.347"/>
+and her husband did
+<Sync time="348.375"/>
+an ASL song video.
+<Sync time="351.086"/>
+Um, they interpreted a song or they performed a song
+<Sync time="354.599"/>
+They played a song and did some ASL along with it
+</Turn>
+<Turn speaker="spk1 spk2" startTime="357.208" endTime="358.18">
+<Sync time="357.208"/>
+<Who nb="1"/>
+Yeah...
+<Who nb="2"/>
+in their car.
+</Turn>
+<Turn speaker="spk2" startTime="358.18" endTime="369.052">
+<Sync time="358.18"/>
+Um, and it, just like Stephen's "Party in the USA" video
+<Sync time="361.898"/>
+went viral, became very popular.
+<Sync time="364.027"/>
+Um, and the two people in the video, who's names I don't remember
+</Turn>
+<Turn speaker="spk1 spk2" startTime="369.052" endTime="370.169">
+<Sync time="369.052"/>
+<Who nb="1"/>
+Paul and Tina.
+<Who nb="2"/>
+because
+</Turn>
+<Turn speaker="spk2" startTime="370.169" endTime="379.43">
+<Sync time="370.169"/>
+Paul and Tini[sic], looked for a way 
+<Sync time="372.918"/>
+to capitilize on this
+<Sync time="374.551"/>
+because that's what you do in our society when things become viral.
+<Sync time="377.735"/>
+You find a way to capitilize on it.
+</Turn>
+<Turn speaker="spk1" startTime="379.43" endTime="379.844">
+<Sync time="379.43"/>
+Right
+</Turn>
+<Turn speaker="spk2" startTime="379.844" endTime="382.967">
+<Sync time="379.844"/>
+Um, that's a whole podcast in and of itself.
+</Turn>
+<Turn speaker="spk1 spk2" startTime="382.967" endTime="386.791">
+<Sync time="382.967"/>
+<Who nb="1"/>
+That's the American dream though right?
+<Who nb="2"/>
+[Chuckles]
+<Sync time="384.827"/>
+<Who nb="1"/>
+Rags to riches...
+<Who nb="2"/>
+Um, Yeah.
+</Turn>
+<Turn speaker="spk2" startTime="386.791" endTime="403.396">
+<Sync time="386.791"/>
+Definately and so they created, as many people do now, a Kickstarter.
+<Sync time="390.884"/>
+Hey, we're going to raise a whole bunch of money to make a bunch of these videos.
+<Sync time="393.984"/>
+Um, which
+<Sync time="396.137"/>
+that's where thing started to become a problem.
+<Sync time="399.2"/>
+And I say started to become a problem
+<Sync time="400.747"/>
+that's when we became aware that a problem existed.
+</Turn>
+<Turn speaker="spk1" startTime="403.396" endTime="404.182">
+<Sync time="403.396"/>
+Yes
+</Turn>
+<Turn speaker="spk2" startTime="404.182" endTime="441.372">
+<Sync time="404.182"/>
+Um, because the problem didn't just occur because these two people happened.
+<Sync time="408.106"/>
+Um, and I think it's important. I think it's something you've come to realize
+<Sync time="410.818"/>
+that's really important.
+<Sync time="412.142"/>
+Um, the Deaf communtiy was...
+<Sync time="415.126"/>
+became, up in arms.
+<Sync time="416.429"/>
+Um, and as we mentioned you've never been considered yourself
+<Sync time="418.827"/>
+a part of the Deaf community in one way or the other.
+<Sync time="420.39"/>
+Um, And I know it exists.
+<Sync time="423.547"/>
+That's about as close as I've ever been personally myself.
+<Sync time="425.987"/>
+Um, but they...
+<Sync time="427.641"/>
+They saw this money grab
+<Sync time="430.118"/>
+based on their culture.
+<Sync time="432.385"/>
+And their... And their identity.
+<Sync time="435.839"/>
+Um, and I think we've talked about how language defines identity
+<Sync time="439.267"/>
+on this show before. If not...
+</Turn>
+<Turn speaker="spk1" startTime="441.372" endTime="445.129">
+<Sync time="441.372"/>
+Yeah, we've talked about... Well we've talked about
+<Sync time="443.745"/>
+language in many ways
+</Turn>
+<Turn speaker="spk2" startTime="445.129" endTime="446.14">
+<Sync time="445.129"/>
+And Identity, so
+</Turn>
+<Turn speaker="spk1" startTime="446.14" endTime="447.152">
+<Sync time="446.14"/>
+So, so sure.
+</Turn>
+<Turn speaker="spk2" startTime="447.152" endTime="451.695">
+<Sync time="447.152"/>
+I'm gonna say language and ident... Language creates identity.
+<Sync time="449.981"/>
+That's a thing I beleave.
+</Turn>
+<Turn speaker="spk1 spk2" startTime="451.695" endTime="452.211">
+<Sync time="451.695"/>
+<Who nb="1"/>
+Yeah.
+<Who nb="2"/>
+If I said
+</Turn>
+<Turn speaker="spk2" startTime="452.211" endTime="455.085">
+<Sync time="452.211"/>
+said it on the show before, I 100% beleave that's true.
+</Turn>
+<Turn speaker="spk1" startTime="455.085" endTime="457.357">
+<Sync time="455.085"/>
+Yeah. We've talked about the sapier worth [TODO: CHECK]
+</Turn>
+<Turn speaker="spk2 spk1" startTime="457.357" endTime="458.783">
+<Sync time="457.357"/>
+<Who nb="1"/>
+Sure... Sure...
+<Who nb="2"/>
+hypothesis.
+</Turn>
+<Turn speaker="spk2" startTime="458.783" endTime="459.32">
+<Sync time="458.783"/>
+Um...
+</Turn>
+<Turn speaker="spk1" startTime="459.32" endTime="462.397">
+<Sync time="459.32"/>
+What you... The language you learn kind of shapes the way you can think.
+</Turn>
+<Turn speaker="spk2" startTime="462.397" endTime="462.956">
+<Sync time="462.397"/>
+Yes
+</Turn>
+<Turn speaker="spk1" startTime="462.956" endTime="464.751">
+<Sync time="462.956"/>
+Or it creates affordances for 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="464.751" endTime="466.92">
+<Sync time="464.751"/>
+<Who nb="1"/>
+Of course. Yeah, it shapes those
+<Who nb="2"/>
+how you tend to think.
+</Turn>
+<Turn speaker="spk2" startTime="466.92" endTime="468.056">
+<Sync time="466.92"/>
+things. Um...
+</Turn>
+<Turn speaker="spk1 spk2" startTime="468.056" endTime="469.088">
+<Sync time="468.056"/>
+<Who nb="1"/>
+So, for the deaf
+<Who nb="2"/>
+And...
+</Turn>
+<Turn speaker="spk1" startTime="469.088" endTime="469.793">
+<Sync time="469.088"/>
+community...
+</Turn>
+<Turn speaker="spk2 spk1" startTime="469.793" endTime="471.858">
+<Sync time="469.793"/>
+<Who nb="1"/>
+ASL is 
+<Who nb="2"/>
+[Unintellagable]
+</Turn>
+<Turn speaker="spk2" startTime="471.858" endTime="476.248">
+<Sync time="471.858"/>
+their culture.
+<Sync time="473.191"/>
+Um...
+<Sync time="475.608"/>
+And...
+</Turn>
+<Turn speaker="spk1" startTime="476.248" endTime="479.262">
+<Sync time="476.248"/>
+Well, it's a signaficant signifier
+</Turn>
+<Turn speaker="spk2" startTime="479.262" endTime="479.835">
+<Sync time="479.262"/>
+of
+</Turn>
+<Turn speaker="spk1 spk2" startTime="479.835" endTime="481.465">
+<Sync time="479.835"/>
+<Who nb="1"/>
+of their culture.
+<Who nb="2"/>
+Yes.
+<Sync time="480.908"/>
+<Who nb="1"/>
+Yes.
+<Who nb="2"/>
+Yes.
+</Turn>
+<Turn speaker="spk2" startTime="481.465" endTime="484.419">
+<Sync time="481.465"/>
+Um, yeah, it goes beyond ASL. It is not exclusively 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="484.419" endTime="485.472">
+<Sync time="484.419"/>
+<Who nb="1"/>
+Right... Right...
+<Who nb="2"/>
+their culture.
+</Turn>
+<Turn speaker="spk2" startTime="485.472" endTime="495.07">
+<Sync time="485.472"/>
+Um, And...
+<Sync time="489.085"/>
+They got incredably upset at somebody trying to profit
+<Sync time="492.142"/>
+from their culture. Somebody who was not a member of their community.
+</Turn>
+<Turn speaker="spk1" startTime="495.07" endTime="495.446">
+<Sync time="495.07"/>
+Right.
+</Turn>
+<Turn speaker="spk2" startTime="495.446" endTime="505.364">
+<Sync time="495.446"/>
+Profiting off of
+<Sync time="498.068"/>
+who they were, and are.
+<Sync time="500.156"/>
+Um, and they became very vocal about it.
+<Sync time="502.779"/>
+And, um, Tini[sic] and
+</Turn>
+<Turn speaker="spk1" startTime="505.364" endTime="506.355">
+<Sync time="505.364"/>
+Paul
+</Turn>
+<Turn speaker="spk2 spk1" startTime="506.355" endTime="508.482">
+<Sync time="506.355"/>
+<Who nb="1"/>
+Paul and
+<Who nb="2"/>
+and Tina
+<Sync time="506.932"/>
+<Who nb="1"/>
+Tina
+<Who nb="2"/>
+Tina
+<Sync time="507.531"/>
+<Who nb="1"/>
+Tina
+<Who nb="2"/>
+Yeah... Yeah...
+</Turn>
+<Turn speaker="spk2" startTime="508.482" endTime="535.467">
+<Sync time="508.482"/>
+Paul and Tina eventually 
+<Sync time="510.259"/>
+backed down and shut down their kickstarter, if I'm not mistaken.
+<Sync time="512.635"/>
+And this was brought to your attention
+<Sync time="515.232"/>
+Stephen and, and,
+<Sync time="516.913"/>
+other people, along the same [unintellagable], because you were doing much the same thing they were doing
+<Sync time="520.957"/>
+maybe not on the same scale and obviously through a different platform
+<Sync time="523.889"/>
+Kickstarter verses Patreon
+<Sync time="525.335"/>
+but were profiting on the culture
+<Sync time="527.711"/>
+of another group of people.
+<Sync time="530.045"/>
+Um, and...
+<Sync time="532.571"/>
+I didn't have any idea this was going on,
+<Sync time="534.099"/>
+like, I just discovered this, this morning.
+</Turn>
+<Turn speaker="spk1 spk2" startTime="535.467" endTime="537.47">
+<Sync time="535.467"/>
+<Who nb="1"/>
+Yeah... [chuckles]
+
+<Who nb="2"/>
+Before I went into work.
+</Turn>
+<Turn speaker="spk2" startTime="537.47" endTime="542.096">
+<Sync time="537.47"/>
+Um, so I knew some of the discussions, before and 
+<Sync time="540.318"/>
+how we sort of talked about... You and I have talked about it
+</Turn>
+<Turn speaker="spk1 spk2" startTime="542.096" endTime="542.55">
+<Sync time="542.096"/>
+<Who nb="1"/>
+Mhm...
+<Who nb="2"/>
+off the 
+</Turn>
+<Turn speaker="spk2" startTime="542.55" endTime="556.219">
+<Sync time="542.55"/>
+record, and things like that about, sort of, you know,
+<Sync time="544.859"/>
+this unconfortablness that there was 
+<Sync time="547.438"/>
+seemed to be from some audiance members about what you were doing
+<Sync time="550.411"/>
+Um, so you sat down long and hard about it and you appearently read
+<Sync time="553.597"/>
+everything there was to read about cultural appropration...
+<Sync time="555.682"/>
+Maybe not everyting...
+</Turn>
+<Turn speaker="spk1 spk2" startTime="556.219" endTime="556.878">
+<Sync time="556.219"/>
+<Who nb="1"/>
+I read a lot.
+<Who nb="2"/>
+but a lot
+</Turn>
+<Turn speaker="spk1" startTime="556.878" endTime="558.44">
+<Sync time="556.878"/>
+I read what was sent to me.
+</Turn>
+<Turn speaker="spk2 spk1" startTime="558.44" endTime="558.956">
+<Sync time="558.44"/>
+<Who nb="1"/>
+Uh huh...
+<Who nb="2"/>
+I also
+</Turn>
+<Turn speaker="spk1" startTime="558.956" endTime="565.73">
+<Sync time="558.956"/>
+Went out and found some resources on my own.
+<Sync time="561.022"/>
+Uh, I read
+<Sync time="562.364"/>
+all the back and forth thet happened on 
+<Sync time="564.801"/>
+Paul and Tina
+</Turn>
+<Turn speaker="spk2 spk1" startTime="565.73" endTime="567.065">
+<Sync time="565.73"/>
+<Who nb="1"/>
+Yeah, oh of course, Yeah
+
+
+
+<Who nb="2"/>
+Ya know
+</Turn>
+<Turn speaker="spk1" startTime="567.065" endTime="569.233">
+<Sync time="567.065"/>
+
+because of their, um, visibility
+</Turn>
+<Turn speaker="spk2" startTime="569.233" endTime="569.625">
+<Sync time="569.233"/>
+Mhum...
+</Turn>
+<Turn speaker="spk1" startTime="569.625" endTime="572.475">
+<Sync time="569.625"/>
+There tended to be a lot more, um,
+<Sync time="571.237"/>
+a lot more activity
+</Turn>
+<Turn speaker="spk2 spk1" startTime="572.475" endTime="574.047">
+<Sync time="572.475"/>
+<Who nb="1"/>
+Yeah
+<Who nb="2"/>
+around
+<Sync time="572.908"/>
+<Who nb="1"/>
+of course
+<Who nb="2"/>
+around their
+</Turn>
+<Turn speaker="spk1" startTime="574.047" endTime="575.491">
+<Sync time="574.047"/>
+And of course debate
+</Turn>
+<Turn speaker="spk2 spk1" startTime="575.491" endTime="576.173">
+<Sync time="575.491"/>
+<Who nb="1"/>
+Mmm hum...
+<Who nb="2"/>
+And so...
+</Turn>
+<Turn speaker="spk1" startTime="576.173" endTime="581.933">
+<Sync time="576.173"/>
+A lot of Deaf community members engaged
+<Sync time="578.425"/>
+with other members of the deaf community.
+<Sync time="580.426"/>
+And of course, the hearing fans
+</Turn>
+<Turn speaker="spk2 spk1" startTime="581.933" endTime="583.379">
+<Sync time="581.933"/>
+<Who nb="1"/>
+Of course, Yeah...
+<Who nb="2"/>
+[unintellagable] Paul and Tina, so 
+</Turn>
+<Turn speaker="spk1" startTime="583.379" endTime="585.888">
+<Sync time="583.379"/>
+I read hundreds and hundreds of comments.
+</Turn>
+<Turn speaker="spk2" startTime="585.888" endTime="586.405">
+<Sync time="585.888"/>
+Uh huh...
+</Turn>
+<Turn speaker="spk1" startTime="586.405" endTime="587.354">
+<Sync time="586.405"/>
+on their stuff.
+</Turn>
+<Turn speaker="spk2" startTime="587.354" endTime="592.832">
+<Sync time="587.354"/>
+Um, and from what it sounds like,
+<Sync time="589.047"/>
+I didn't read nearly as many comments,
+<Sync time="590.144"/>
+but it sounds like many of the comments were actually insightful and interesting,
+</Turn>
+<Turn speaker="spk1 spk2" startTime="592.832" endTime="593.699">
+<Sync time="592.832"/>
+<Who nb="1"/>
+Oh yeah.
+<Who nb="2"/>
+as opposed to 
+</Turn>
+<Turn speaker="spk2" startTime="593.699" endTime="595.372">
+<Sync time="593.699"/>
+most of the comments on the internet.
+</Turn>
+<Turn speaker="spk1 spk2" startTime="595.372" endTime="597.829">
+<Sync time="595.372"/>
+<Who nb="1"/>
+Well, it was a... I won't 
+<Who nb="2"/>
+[chuckles]
+</Turn>
+<Turn speaker="spk1" startTime="597.829" endTime="599.851">
+<Sync time="597.829"/>
+deny, there was a lot of filtering that I 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="599.851" endTime="601.301">
+<Sync time="599.851"/>
+<Who nb="1"/>
+[Laughs]
+
+<Who nb="2"/>
+had to do. And I...
+</Turn>
+<Turn speaker="spk1" startTime="601.301" endTime="605.372">
+<Sync time="601.301"/>
+if someone started out with "I'm hearing but"
+<Sync time="603.883"/>
+I just sort of skipped that
+</Turn>
+<Turn speaker="spk2 spk1" startTime="605.372" endTime="607.912">
+<Sync time="605.372"/>
+<Who nb="1"/>
+Let's move on.
+<Who nb="2"/>
+Um...
+<Sync time="606.301"/>
+<Who nb="1"/>
+
+[chuckles]
+<Who nb="2"/>
+Yeah, and uh...
+</Turn>
+<Turn speaker="spk1" startTime="607.912" endTime="614.376">
+<Sync time="607.912"/>
+you know, really looked for someone who...
+<Sync time="610.492"/>
+who appeared to be coming at this from a point of having read 
+<Sync time="613.095"/>
+the previous material
+</Turn>
+<Turn speaker="spk2 spk1" startTime="614.376" endTime="616.36">
+<Sync time="614.376"/>
+<Who nb="1"/>
+Mmm hum. Okay.
+<Who nb="2"/>
+to some extent.
+<Sync time="615.678"/>
+<Who nb="1"/>
+Yeah.
+<Who nb="2"/>
+It was...
+</Turn>
+<Turn speaker="spk1" startTime="616.36" endTime="621.735">
+<Sync time="616.36"/>
+There was a lot um a lot of people jumping in
+<Sync time="619.005"/>
+with kind of the initial, initial rebutals...
+</Turn>
+<Turn speaker="spk2" startTime="621.735" endTime="622.232">
+<Sync time="621.735"/>
+Uh huh...
+</Turn>
+<Turn speaker="spk1" startTime="622.232" endTime="623.329">
+<Sync time="622.232"/>
+initial arguments and ...
+</Turn>
+<Turn speaker="spk2" startTime="623.329" endTime="625.46">
+<Sync time="623.329"/>
+"Oh, but you... but it's okay because art"
+</Turn>
+<Turn speaker="spk1 spk2" startTime="625.46" endTime="626.578">
+<Sync time="625.46"/>
+<Who nb="1"/>
+Right, Right...
+<Who nb="2"/>
+Um... Which
+</Turn>
+<Turn speaker="spk1" startTime="626.578" endTime="630.259">
+<Sync time="626.578"/>
+So... So... Take me through some of the justifications 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="630.259" endTime="631.48">
+<Sync time="630.259"/>
+<Who nb="1"/>
+Mkay... Um...
+<Who nb="2"/>
+that people were putting forward.
+</Turn>
+<Turn speaker="spk2" startTime="631.48" endTime="643.48">
+<Sync time="631.48"/>
+So, some of the ones I saw were
+<Sync time="633.218"/>
+um... I saw a lot of... um...
+<Sync time="634.832"/>
+what I saw were interisting personal justifications.
+<Sync time="637.791"/>
+Um...
+<Sync time="638.68"/>
+What I saw most often, and I'm generalizing here 
+<Sync time="641.494"/>
+"It's okay because I like it..."
+</Turn>
+<Turn speaker="spk1" startTime="643.48" endTime="644.243">
+<Sync time="643.48"/>
+Yeah...
+</Turn>
+<Turn speaker="spk2" startTime="644.243" endTime="647.758">
+<Sync time="644.243"/>
+Um... "... and it benifited me in some way."
+</Turn>
+<Turn speaker="spk1" startTime="647.758" endTime="650.547">
+<Sync time="647.758"/>
+"I was happy", "I discovered sign language"
+</Turn>
+<Turn speaker="spk2" startTime="650.547" endTime="654.333">
+<Sync time="650.547"/>
+Um... And I... [unintellagable]...
+<Sync time="652.492"/>
+... 'cause there were definately like parents that were commenting on
+</Turn>
+<Turn speaker="spk1 spk2" startTime="654.333" endTime="656.193">
+<Sync time="654.333"/>
+<Who nb="1"/>
+Yeah...
+<Who nb="2"/>
+your videos, talking about
+</Turn>
+<Turn speaker="spk2" startTime="656.193" endTime="672.045">
+<Sync time="656.193"/>
+how it opened people up who are on the autism spectrum,
+<Sync time="659.087"/>
+and thats, thats really... and that's certanly powerful.
+<Sync time="662.269"/>
+And there is... there is definately good [unintellagable]...
+<Sync time="665.142"/>
+I enjoy watching your videos. There is not a year that's gone by,
+<Sync time="668.263"/>
+since the video's made, that I haven't shared "The First of May" video
+<Sync time="671.115"/>
+on the first of May
+</Turn>
+<Turn speaker="spk1 spk2" startTime="672.045" endTime="673.079">
+<Sync time="672.045"/>
+<Who nb="1"/>
+Right...
+<Who nb="2"/>
+every year.
+</Turn>
+<Turn speaker="spk2" startTime="673.079" endTime="674.981">
+<Sync time="673.079"/>
+And I have to reconsider that... like...
+</Turn>
+<Turn speaker="spk1 spk2" startTime="674.981" endTime="677.234">
+<Sync time="674.981"/>
+<Who nb="1"/>
+Well, I... heh, sure... And I
+<Who nb="2"/>
+'cause these sorts of things.
+</Turn>
+<Turn speaker="spk1" startTime="677.234" endTime="678.639">
+<Sync time="677.234"/>
+I thing a lot of that enjoyment,
+</Turn>
+<Turn speaker="spk2 spk1" startTime="678.639" endTime="679.052">
+<Sync time="678.639"/>
+<Who nb="1"/>
+Um hum...
+<Who nb="2"/>
+and this
+</Turn>
+<Turn speaker="spk1" startTime="679.052" endTime="685.203">
+<Sync time="679.052"/>
+goes for a lot of people,
+<Sync time="681.036"/>
+a lot of that enjoyment is predicated on
+<Sync time="683.653"/>
+a degree of ignerence
+</Turn>
+<Turn speaker="spk2 spk1" startTime="685.203" endTime="686.711">
+<Sync time="685.203"/>
+<Who nb="1"/>
+Yes! Oh definately!
+
+
+<Who nb="2"/>
+about what's...
+</Turn>
+<Turn speaker="spk1" startTime="686.711" endTime="687.548">
+<Sync time="686.711"/>
+About what's actually
+</Turn>
+<Turn speaker="spk2 spk1" startTime="687.548" endTime="688.148">
+<Sync time="687.548"/>
+<Who nb="1"/>
+Definately!
+<Who nb="2"/>
+going on.
+</Turn>
+<Turn speaker="spk1" startTime="688.148" endTime="688.706">
+<Sync time="688.148"/>
+Right?
+</Turn>
+<Turn speaker="spk2 spk1" startTime="688.706" endTime="690.256">
+<Sync time="688.706"/>
+<Who nb="1"/>
+Um... And I think that's important
+<Who nb="2"/>
+[Chuckles]
+</Turn>
+<Turn speaker="spk2" startTime="690.256" endTime="693.334">
+<Sync time="690.256"/>
+Um...
+<Sync time="691.826"/>
+Because, yes.
+</Turn>
+<Turn speaker="spk1" startTime="693.334" endTime="694.471">
+<Sync time="693.334"/>
+[chuckles]
+</Turn>
+<Turn speaker="spk2" startTime="694.471" endTime="698.479">
+<Sync time="694.471"/>
+Um.. But that was the biggest justification I saw was 
+<Sync time="697.023"/>
+"It's okay because I like it."
+</Turn>
+<Turn speaker="spk1" startTime="698.479" endTime="700.649">
+<Sync time="698.479"/>
+Um, Other justifications?
+</Turn>
+<Turn speaker="spk2" startTime="700.649" endTime="709.538">
+<Sync time="700.649"/>
+"Art makes it okay..."
+<Sync time="701.785"/>
+Um... "... because you're not trying to..."
+<Sync time="704.349"/>
+"... you're not trying to... in... to approprate Deaf culture
+</Turn>
+<Turn speaker="spk2 spk1" startTime="709.538" endTime="710.261">
+<Sync time="709.538"/>
+<Who nb="1"/>
+because you're not
+<Who nb="2"/>
+Um... hum...
+</Turn>
+<Turn speaker="spk2" startTime="710.261" endTime="714.023">
+<Sync time="710.261"/>
+claiming to be Deaf
+<Sync time="711.44"/>
+or hard of hearing... or not hard of hearing... We don't say that any more right?
+</Turn>
+<Turn speaker="spk1 spk2" startTime="714.023" endTime="716.028">
+<Sync time="714.023"/>
+<Who nb="1"/>
+No. Hard of hearing is correct.
+<Who nb="2"/>
+that's... that's
+</Turn>
+<Turn speaker="spk2" startTime="716.028" endTime="716.545">
+<Sync time="716.028"/>
+Okay
+</Turn>
+<Turn speaker="spk1" startTime="716.545" endTime="718.074">
+<Sync time="716.545"/>
+Hearing impared is not.
+</Turn>
+<Turn speaker="spk2" startTime="718.074" endTime="718.543">
+<Sync time="718.074"/>
+Okay.
+</Turn>
+<Turn speaker="spk1" startTime="718.543" endTime="722.904">
+<Sync time="718.543"/>
+Which is different... people get confused 'cause in the blind community
+<Sync time="721.643"/>
+visually impared
+</Turn>
+<Turn speaker="spk2 spk1" startTime="722.904" endTime="724.826">
+<Sync time="722.904"/>
+<Who nb="1"/>
+is approprate.
+<Who nb="2"/>
+is... is approprate.
+</Turn>
+<Turn speaker="spk1" startTime="724.826" endTime="725.304">
+<Sync time="724.826"/>
+Yes.
+</Turn>
+<Turn speaker="spk2 spk1" startTime="725.304" endTime="727.454">
+<Sync time="725.304"/>
+<Who nb="1"/>
+Yeah, but...
+<Who nb="2"/>
+It's confusing. These
+</Turn>
+<Turn speaker="spk1" startTime="727.454" endTime="729.066">
+<Sync time="727.454"/>
+issues are complicated. Get used to it.
+</Turn>
+<Turn speaker="spk2" startTime="729.066" endTime="730.776">
+<Sync time="729.066"/>
+Communities get to define their
+</Turn>
+<Turn speaker="spk1 spk2" startTime="730.776" endTime="731.973">
+<Sync time="730.776"/>
+<Who nb="1"/>
+Exactly!
+
+
+
+<Who nb="2"/>
+termonology,
+</Turn>
+<Turn speaker="spk2" startTime="731.973" endTime="732.741">
+<Sync time="731.973"/>
+outsiders do not.
+</Turn>
+<Turn speaker="spk1" startTime="732.741" endTime="734.497">
+<Sync time="732.741"/>
+Right, right. Oh bam!
+</Turn>
+<Turn speaker="spk1 spk2" startTime="734.497" endTime="737.081">
+<Sync time="734.497"/>
+<Who nb="1"/>
+Well there it gets into another
+<Who nb="2"/>
+[chuckles]
+<Sync time="736.481"/>
+<Who nb="1"/>
+aspect
+<Who nb="2"/>
+Uh, huh...
+</Turn>
+<Turn speaker="spk1" startTime="737.081" endTime="746.652">
+<Sync time="737.081"/>
+and another dimension of this, which is,
+<Sync time="739.064"/>
+a lot of hearing people coming at it and going 
+<Sync time="741.234"/>
+"Well, sign language is for everybody, just like all languages are for everybody."
+<Sync time="745.515"/>
+And...
+</Turn>
+<Turn speaker="spk2" startTime="746.652" endTime="765.3">
+<Sync time="746.652"/>
+And, it's a... it's a yes and no.
+<Sync time="749.566"/>
+Um... and...
+<Sync time="751.592"/>
+All languages can be for everybody,
+<Sync time="755.153"/>
+but that doesn't mean
+<Sync time="758.418"/>
+this language
+<Sync time="760.96"/>
+isn't also specifically for a specific community and culture.
+</Turn>
+<Turn speaker="spk1" startTime="765.3" endTime="766.209">
+<Sync time="765.3"/>
+Um, hum...
+</Turn>
+<Turn speaker="spk2" startTime="766.209" endTime="768.71">
+<Sync time="766.209"/>
+Um... So, one does not negate the other.
+</Turn>
+<Turn speaker="spk1" startTime="768.71" endTime="769.805">
+<Sync time="768.71"/>
+Right...
+</Turn>
+<Turn speaker="spk2" startTime="769.805" endTime="781.465">
+<Sync time="769.805"/>
+Um... And... 
+<Sync time="773.441"/>
+For what it's worth, there has long been 
+<Sync time="776.42"/>
+argument and discussion and
+<Sync time="778.321"/>
+people having problems with
+<Sync time="779.75"/>
+translation in any form.
+</Turn>
+<Turn speaker="spk1" startTime="781.465" endTime="781.796">
+<Sync time="781.465"/>
+Yeah...
+</Turn>
+<Turn speaker="spk2" startTime="781.796" endTime="787.192">
+<Sync time="781.796"/>
+Um, that has existed for a long time.
+<Sync time="784.338"/>
+You know... And the right way to translate things.
+</Turn>
+<Turn speaker="spk1" startTime="787.192" endTime="789.796">
+<Sync time="787.192"/>
+Because, like you said, language is... it defines identity
+</Turn>
+<Turn speaker="spk2 spk1" startTime="789.796" endTime="791.47">
+<Sync time="789.796"/>
+<Who nb="1"/>
+And... And defines culture.
+<Who nb="2"/>
+in a big way
+</Turn>
+<Turn speaker="spk1" startTime="791.47" endTime="793.516">
+<Sync time="791.47"/>
+And, when you translate
+</Turn>
+<Turn speaker="spk2 spk1" startTime="793.516" endTime="794.012">
+<Sync time="793.516"/>
+<Who nb="1"/>
+Um, hum...
+<Who nb="2"/>
+you
+</Turn>
+<Turn speaker="spk1" startTime="794.012" endTime="796.657">
+<Sync time="794.012"/>
+it's part of the transactional nature of...
+</Turn>
+<Turn speaker="spk2 spk1" startTime="796.657" endTime="797.05">
+<Sync time="796.657"/>
+<Who nb="1"/>
+Um, hum...
+<Who nb="2"/>
+of...
+</Turn>
+<Turn speaker="spk1" startTime="797.05" endTime="815.075">
+<Sync time="797.05"/>
+socialiation of relationship, you know?
+<Sync time="800.129"/>
+But, cultures transact in many, many ways,
+<Sync time="803.148"/>
+through sharing, you know, goods through trade, uh...
+<Sync time="806.456"/>
+cultural... Cultural sharing is another way that...
+<Sync time="809.474"/>
+that... um... you know? Cultures are both
+<Sync time="811.561"/>
+diluted but also strangthened
+</Turn>
+<Turn speaker="spk2" startTime="815.075" endTime="815.716">
+<Sync time="815.075"/>
+Um, hum...
+</Turn>
+<Turn speaker="spk1" startTime="815.716" endTime="834.419">
+<Sync time="815.716"/>
+as they may discover aspects of other cultures that can um...
+<Sync time="819.105"/>
+that can bennifit their own.
+<Sync time="821.133"/>
+But I think the important
+<Sync time="823.241"/>
+dynamic here, that not a lot of people were grasping,
+<Sync time="826.072"/>
+and that I hadn't sufficently grasped,
+<Sync time="828.701"/>
+is the disparaty in
+<Sync time="832.317"/>
+call it privildge
+</Turn>
+<Turn speaker="spk2" startTime="834.419" endTime="834.796">
+<Sync time="834.419"/>
+Uh huh...
+</Turn>
+<Turn speaker="spk1" startTime="834.796" endTime="838.661">
+<Sync time="834.796"/>
+uh... and... you know... strangth and power between the hearing world
+</Turn>
+<Turn speaker="spk2 spk1" startTime="838.661" endTime="840.163">
+<Sync time="838.661"/>
+<Who nb="1"/>
+Sure.
+<Who nb="2"/>
+and the Deaf world
+</Turn>
+<Turn speaker="spk1" startTime="840.163" endTime="841.712">
+<Sync time="840.163"/>
+that pursists.
+</Turn>
+<Turn speaker="spk2 spk1" startTime="841.712" endTime="843.146">
+<Sync time="841.712"/>
+<Who nb="1"/>
+And I mean...
+<Who nb="2"/>
+Um...
+</Turn>
+<Turn speaker="spk2" startTime="843.146" endTime="846.701">
+<Sync time="843.146"/>
+It's worth noting, that primarily, we do an audio only podcast.
+</Turn>
+<Turn speaker="spk1" startTime="846.701" endTime="847.3">
+<Sync time="846.701"/>
+Right.
+</Turn>
+<Turn speaker="spk2 spk1" startTime="847.3" endTime="848.974">
+<Sync time="847.3"/>
+<Who nb="1"/>
+Thus... Thus
+<Who nb="2"/>
+[chuckles]
+</Turn>
+<Turn speaker="spk2" startTime="848.974" endTime="851.971">
+<Sync time="848.974"/>
+excluding the majority of the deaf community.
+</Turn>
+<Turn speaker="spk1" startTime="851.971" endTime="852.343">
+<Sync time="851.971"/>
+Yes.
+</Turn>
+<Turn speaker="spk2" startTime="852.343" endTime="857.242">
+<Sync time="852.343"/>
+Um, which something which actually has been brought to our attention many, many years ago
+<Sync time="855.277"/>
+in which somebody asked us to do transcripts
+</Turn>
+<Turn speaker="spk1 spk2" startTime="857.242" endTime="858.422">
+<Sync time="857.242"/>
+<Who nb="1"/>
+Yeah...
+<Who nb="2"/>
+Um...
+</Turn>
+<Turn speaker="spk2" startTime="858.422" endTime="864.085">
+<Sync time="858.422"/>
+And... And...
+<Sync time="860.654"/>
+I wish we could?
+<Sync time="861.977"/>
+And then we looked into it, and...
+</Turn>
+<Turn speaker="spk1 spk2" startTime="864.085" endTime="865.738">
+<Sync time="864.085"/>
+<Who nb="1"/>
+It's expensive.
+<Who nb="2"/>
+transcription is expensive
+</Turn>
+<Turn speaker="spk2" startTime="865.738" endTime="867.143">
+<Sync time="865.738"/>
+and time consuming and hard.
+</Turn>
+<Turn speaker="spk1" startTime="867.143" endTime="867.811">
+<Sync time="867.143"/>
+Yeah
+</Turn>
+<Turn speaker="spk2" startTime="867.811" endTime="872.196">
+<Sync time="867.811"/>
+Which should not be an excuse, but
+<Sync time="869.837"/>
+this... this, what we are doing here, really truely is a hobby.
+</Turn>
+<Turn speaker="spk1" startTime="872.196" endTime="872.65">
+<Sync time="872.196"/>
+Yeah
+</Turn>
+<Turn speaker="spk2" startTime="872.65" endTime="878.131">
+<Sync time="872.65"/>
+This is something that we are doing, because
+<Sync time="874.696"/>
+we got together after I got off work and sat down in a bar.
+</Turn>
+<Turn speaker="spk1 spk2" startTime="878.131" endTime="879.906">
+<Sync time="878.131"/>
+<Who nb="1"/>
+Yup... [chuckles]
+<Who nb="2"/>
+Um... So...
+</Turn>
+<Turn speaker="spk2" startTime="879.906" endTime="884.039">
+<Sync time="879.906"/>
+Um... It would be lovely to have the resources to do that.
+</Turn>
+<Turn speaker="spk1" startTime="884.039" endTime="884.452">
+<Sync time="884.039"/>
+Right.
+</Turn>
+<Turn speaker="spk2" startTime="884.452" endTime="887.841">
+<Sync time="884.452"/>
+But that puts us, even more so, in a position of privilidge
+</Turn>
+<Turn speaker="spk1" startTime="887.841" endTime="888.213">
+<Sync time="887.841"/>
+Yeah.
+</Turn>
+<Turn speaker="spk2" startTime="888.213" endTime="891.117">
+<Sync time="888.213"/>
+over the Deaf community.
+</Turn>
+<Turn speaker="spk1" startTime="891.117" endTime="900.172">
+<Sync time="891.117"/>
+Well... And it's a...
+<Sync time="892.997"/>
+I mean... God... I just 
+<Sync time="895.169"/>
+wrote another response, after all this,
+<Sync time="897.815"/>
+in addition to the long essay 
+<Sync time="899.615"/>
+that I... that I wrote 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="900.172" endTime="907.591">
+<Sync time="900.172"/>
+<Who nb="1"/>
+Uh, huh... I'm... Thank you! [chuckles]
+<Who nb="2"/>
+that Kevin is doing a fantastic job of rehashing
+<Sync time="904.223"/>
+<Who nb="1"/>
+Um... all from memory. I read it this morning... Once.
+<Who nb="2"/>
+Um... Right...
+<Sync time="906.434"/>
+<Who nb="1"/>
+So...
+<Who nb="2"/>
+Uh...
+</Turn>
+<Turn speaker="spk1" startTime="907.591" endTime="911.76">
+<Sync time="907.591"/>
+I've also been responding in kind as...
+<Sync time="909.481"/>
+as additional aspects of this 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="911.76" endTime="913.543">
+<Sync time="911.76"/>
+<Who nb="1"/>
+are fleshed out on comment threads.
+<Who nb="2"/>
+Um, hum...
+</Turn>
+<Turn speaker="spk1" startTime="913.543" endTime="917.784">
+<Sync time="913.543"/>
+But... Um...
+<Sync time="915.47"/>
+Well, I guess we should say how it sort of all ended,
+</Turn>
+<Turn speaker="spk2 spk1" startTime="917.784" endTime="920.286">
+<Sync time="917.784"/>
+<Who nb="1"/>
+Yeah, so... so... we...
+<Who nb="2"/>
+the conclusion that I came to and all
+</Turn>
+<Turn speaker="spk2" startTime="920.286" endTime="922.559">
+<Sync time="920.286"/>
+I like how you kind of... You gave yourself three options.
+</Turn>
+<Turn speaker="spk1" startTime="922.559" endTime="922.973">
+<Sync time="922.559"/>
+Um hum...
+</Turn>
+<Turn speaker="spk2" startTime="922.973" endTime="930.89">
+<Sync time="922.973"/>
+Um, which I think, fairly susently showed up the options that existed.
+<Sync time="926.962"/>
+Um...
+<Sync time="928.162"/>
+And I remember the third one,
+<Sync time="929.485"/>
+'cause, spoiler, that's the one you picked.
+</Turn>
+<Turn speaker="spk1 spk2" startTime="930.89" endTime="931.924">
+<Sync time="930.89"/>
+<Who nb="1"/>
+Yeah... [chuckles]
+
+<Who nb="2"/>
+Um... That was the e...
+</Turn>
+<Turn speaker="spk2" startTime="931.924" endTime="935.688">
+<Sync time="931.924"/>
+
+That was the one... I could tell,
+<Sync time="933.97"/>
+with out having to [unintellagable]
+</Turn>
+<Turn speaker="spk1 spk2" startTime="935.688" endTime="936.446">
+<Sync time="935.688"/>
+<Who nb="1"/>
+Right... Right...
+<Who nb="2"/>
+Um...
+</Turn>
+<Turn speaker="spk2" startTime="936.446" endTime="941.199">
+<Sync time="936.446"/>
+Like um... it became very clear to me.
+<Sync time="938.326"/>
+[unintellagable] you can't say all of this and then...
+</Turn>
+<Turn speaker="spk1 spk2" startTime="941.199" endTime="941.946">
+<Sync time="941.199"/>
+<Who nb="1"/>
+[chuckles]
+<Who nb="2"/>
+Um...
+</Turn>
+<Turn speaker="spk2" startTime="941.946" endTime="950.07">
+<Sync time="941.946"/>
+So... So... I think the options that existed, you kind of said you could
+<Sync time="946.886"/>
+Um...
+</Turn>
+<Turn speaker="spk1 spk2" startTime="950.07" endTime="952.081">
+<Sync time="950.07"/>
+<Who nb="1"/>
+Continue... Right...
+
+<Who nb="2"/>
+Become a part of the community...
+</Turn>
+<Turn speaker="spk2" startTime="952.081" endTime="958.962">
+<Sync time="952.081"/>
+So basically, continue doing this,
+<Sync time="954.264"/>
+but...
+<Sync time="955.805"/>
+try and...
+<Sync time="957.533"/>
+remove your privildge from it.
+</Turn>
+<Turn speaker="spk2 spk1" startTime="958.962" endTime="962.746">
+<Sync time="958.962"/>
+<Who nb="1"/>
+I think is sort of the way you put it. By becoming a member of that community...
+<Who nb="2"/>
+Right... Right... Right...
+</Turn>
+<Turn speaker="spk2" startTime="962.746" endTime="967.399">
+<Sync time="962.746"/>
+becoming a part of that... and having the community become a part of your creations.
+</Turn>
+<Turn speaker="spk1" startTime="967.399" endTime="968.143">
+<Sync time="967.399"/>
+Yes
+</Turn>
+<Turn speaker="spk2" startTime="968.143" endTime="977.187">
+<Sync time="968.143"/>
+Um... Thus removing the appropration.
+<Sync time="971.102"/>
+Um... Making it no longer appropration,
+<Sync time="973.375"/>
+just doing it [unintellagable].
+<Sync time="974.829"/>
+Which exists. There are people who do that, you've linked to a bunch of them
+</Turn>
+<Turn speaker="spk1" startTime="977.187" endTime="977.684">
+<Sync time="977.187"/>
+Oh yeah
+</Turn>
+<Turn speaker="spk2" startTime="977.684" endTime="980.848">
+<Sync time="977.684"/>
+Um... And... And no one is getting mad about them doing it.
+</Turn>
+<Turn speaker="spk1 spk2" startTime="980.848" endTime="985.455">
+<Sync time="980.848"/>
+<Who nb="1"/>
+No, because they grew up in the community.
+<Who nb="2"/>
+[chuckles]
+<Sync time="983.552"/>
+<Who nb="1"/>
+
+They're interperters for the community
+<Who nb="2"/>
+Yeah
+</Turn>
+<Turn speaker="spk2" startTime="985.455" endTime="987.234">
+<Sync time="985.455"/>
+They're a part of that.
+</Turn>
+<Turn speaker="spk1" startTime="987.234" endTime="993.191">
+<Sync time="987.234"/>
+Well I think the operative term is... and doing that as
+<Sync time="989.841"/>
+the... the driving motivation 
+<Sync time="991.827"/>
+for the creation of these
+</Turn>
+<Turn speaker="spk1 spk2" startTime="993.191" endTime="994.018">
+<Sync time="993.191"/>
+<Who nb="1"/>
+what you call
+<Who nb="2"/>
+Yes
+</Turn>
+<Turn speaker="spk1" startTime="994.018" endTime="996.148">
+<Sync time="994.018"/>
+products, what I call works of art
+</Turn>
+<Turn speaker="spk2" startTime="996.148" endTime="996.558">
+<Sync time="996.148"/>
+Um hum...
+</Turn>
+<Turn speaker="spk1" startTime="996.558" endTime="997.924">
+<Sync time="996.558"/>
+Um... [chuckles] We'll get to that
+</Turn>
+<Turn speaker="spk2" startTime="997.924" endTime="999.166">
+<Sync time="997.924"/>
+Don't get me wrong, I
+<Sync time="998.338"/>
+do think they are works 
+</Turn>
+<Turn speaker="spk2 spk1" startTime="999.166" endTime="1000.718">
+<Sync time="999.166"/>
+<Who nb="1"/>
+of art, Stephen. I think that
+<Who nb="2"/>
+Okay, okay.
+</Turn>
+<Turn speaker="spk2" startTime="1000.718" endTime="1001.82">
+<Sync time="1000.718"/>
+Um... [laughs]
+</Turn>
+<Turn speaker="spk1" startTime="1001.82" endTime="1005.916">
+<Sync time="1001.82"/>
+So, yeah. As sort of the driving motivation, and uh...
+<Sync time="1004.633"/>
+okay so that was one option...
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1005.916" endTime="1006.97">
+<Sync time="1005.916"/>
+<Who nb="1"/>
+That was an option
+<Who nb="2"/>
+Second option
+</Turn>
+<Turn speaker="spk2" startTime="1006.97" endTime="1010.88">
+<Sync time="1006.97"/>
+The second option was... Um...
+<Sync time="1009.431"/>
+stop taking money for it.
+</Turn>
+<Turn speaker="spk1" startTime="1010.88" endTime="1011.294">
+<Sync time="1010.88"/>
+Right
+</Turn>
+<Turn speaker="spk2" startTime="1011.294" endTime="1012.908">
+<Sync time="1011.294"/>
+Going back to the sort of hobby state.
+</Turn>
+<Turn speaker="spk1" startTime="1012.908" endTime="1014.523">
+<Sync time="1012.908"/>
+And stop calling it ASL
+</Turn>
+<Turn speaker="spk2" startTime="1014.523" endTime="1016.483">
+<Sync time="1014.523"/>
+And stop calling it [unintellagable] calling it something else.
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1016.483" endTime="1018.137">
+<Sync time="1016.483"/>
+<Who nb="1"/>
+Try to find some new termonology
+<Who nb="2"/>
+Yeah...
+</Turn>
+<Turn speaker="spk2" startTime="1018.137" endTime="1022.345">
+<Sync time="1018.137"/>
+Um...
+<Sync time="1020.081"/>
+Which doesn't remove the appropration
+</Turn>
+<Turn speaker="spk1" startTime="1022.345" endTime="1022.793">
+<Sync time="1022.345"/>
+Right
+</Turn>
+<Turn speaker="spk2" startTime="1022.793" endTime="1027.094">
+<Sync time="1022.793"/>
+Um... that still exists, because your're not going to make up your own signs
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1027.094" endTime="1029.493">
+<Sync time="1027.094"/>
+<Who nb="1"/>
+Well... To be fair
+
+<Who nb="2"/>
+to interperet things. probably.
+</Turn>
+<Turn speaker="spk1" startTime="1029.493" endTime="1035.355">
+<Sync time="1029.493"/>
+the... the... there is a 
+<Sync time="1032.198"/>
+there is a multitude of signed lanugage
+<Sync time="1034.73"/>
+in the United... 
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1035.355" endTime="1036.624">
+<Sync time="1035.355"/>
+<Who nb="1"/>
+used in the United States
+<Who nb="2"/>
+Sure...
+</Turn>
+<Turn speaker="spk2 spk1" startTime="1036.624" endTime="1038.823">
+<Sync time="1036.624"/>
+<Who nb="1"/>
+There's ASL. There's signed English
+<Who nb="2"/>
+There are...
+</Turn>
+<Turn speaker="spk2" startTime="1038.823" endTime="1039.185">
+<Sync time="1038.823"/>
+There's...
+</Turn>
+<Turn speaker="spk1" startTime="1039.185" endTime="1045.292">
+<Sync time="1039.185"/>
+Constructed languages which... which are
+<Sync time="1041.689"/>
+not necessarily derived from 
+<Sync time="1044.155"/>
+American Sign Language
+</Turn>
+<Turn speaker="spk2" startTime="1045.292" endTime="1045.535">
+<Sync time="1045.292"/>
+Uh huh...
+</Turn>
+<Turn speaker="spk1" startTime="1045.535" endTime="1054.989">
+<Sync time="1045.535"/>
+There's manually coded english
+<Sync time="1047.355"/>
+Um...
+<Sync time="1048.037"/>
+Conceptually accurate signed English
+<Sync time="1050.086"/>
+Which have invented signs that are not
+<Sync time="1053.459"/>
+ASL signs
+</Turn>
+<Turn speaker="spk2" startTime="1054.989" endTime="1055.383">
+<Sync time="1054.989"/>
+Um hum...
+</Turn>
+<Turn speaker="spk1" startTime="1055.383" endTime="1058.154">
+<Sync time="1055.383"/>
+Um... and the gramatical structure that is entirely
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1058.154" endTime="1058.66">
+<Sync time="1058.154"/>
+<Who nb="1"/>
+different
+<Who nb="2"/>
+Yes
+</Turn>
+<Turn speaker="spk1" startTime="1058.66" endTime="1062.571">
+<Sync time="1058.66"/>
+I mean, consider that they are to ASL as
+</Turn>
+<Turn speaker="spk1 spk2" startTime="1062.571" endTime="1065.872">
+<Sync time="1062.571"/>
+<Who nb="1"/>
+Esperanto is to Latin. Or something like that.
+<Who nb="2"/>
+Um hum...
+</Turn>
+<Turn speaker="spk1" startTime="1065.872" endTime="4483.958">
+<Sync time="1065.872"/>
+Um... But those would not be
+<Sync time="1068.955"/>
+as potentant in my opinion...
+<Sync time="1072.1"/>
+Well anyways
+</Turn>
+</Section>
+</Episode>
+</Trans>
