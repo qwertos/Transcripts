@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <!DOCTYPE Trans SYSTEM "trans-14.dtd">
-<Trans scribe="qwertos" audio_filename="Bad_Philosophy_Rule_Set_Update_C" version="1" version_date="141113">
+<Trans scribe="Aaron Herting (aaron@herting.cc)" audio_filename="Bad Philosophy - Rule Set Update C" version="2" version_date="141114" xml:lang="en">
 <Speakers>
 <Speaker id="spk1" name="Stephen Torrence" check="no" type="male" dialect="native" accent="" scope="local"/>
 <Speaker id="spk2" name="Keven Saunders" check="no" type="male" dialect="native" accent="" scope="local"/>
 <Speaker id="spk3" name="Steven Torrence (reading Vince Tennant)" check="no" dialect="native" accent="" scope="local"/>
 </Speakers>
-<Episode>
-<Section type="report" startTime="0" endTime="2127.558349609375">
+<Episode program="Bad Philosophy - Rule Set Update C" air_date="November 3, 2014">
+<Section type="report" startTime="0" endTime="2127.558">
 <Turn startTime="0" endTime="5.713" speaker="spk1">
 <Sync time="0"/>
 What's up! It's the rule set update episode of Bad Philosophy.
@@ -80,7 +80,7 @@ Yeah
 <Sync time="38.677"/>
 and uh... go for it... Um... So, Vince says
 </Turn>
-<Turn speaker="spk3" startTime="41.28" endTime="2127.558349609375">
+<Turn speaker="spk3" startTime="41.28" endTime="88.202">
 <Sync time="41.28"/>
 "Hey guys! Loved the most recent pod about Stephen and his signing videos,
 <Sync time="44.536"/>
@@ -90,6 +90,394 @@ Do you think your use of quote listen and quote
 <Sync time="50.019"/>
 hear is inapproperate based on the conversation you just had?
 <Sync time="53.357"/>
+go back and note when listen and hear or their derivitaves are used
+<Sync time="56.882"/>
+um... and you are rarely meaning the decyphering of sound waves
+<Sync time="60.551"/>
+in our ears, rather you are using 
+<Sync time="62.599"/>
+them in place of understand or something close.
+<Sync time="65.804"/>
+For instance, if you apologize about it on your next pod,
+<Sync time="69.454"/>
+were you quote listening to me? Did you quote
+<Sync time="72.437"/>
+hear my concerns? No. The idea was 
+<Sync time="74.748"/>
+communicated through text and mutual concepts.
+<Sync time="76.595"/>
+In essance you were conflating communication with
+<Sync time="79.051"/>
+speech and hearing,
+<Sync time="80.308"/>
+continuing the disenfranchisement of the deaf community.
+<Sync time="82.886"/>
+Hmmm...
+<Sync time="83.535"/>
+Just a thought about the consete and power of hearing culture.
+<Sync time="86.294"/>
+Would be thrilled to read a response from you."
+</Turn>
+<Turn speaker="spk1" startTime="88.202" endTime="89.846">
+<Sync time="88.202"/>
+So, Kevin you replied:
+</Turn>
+<Turn speaker="spk2" startTime="89.846" endTime="98.349">
+<Sync time="89.846"/>
+Um... I don't remember what I said,
+<Sync time="91.712"/>
+but I'll say the same thing just verbally
+<Sync time="93.093"/>
+Um...
+<Sync time="93.662"/>
+No, I think... I think this is an important thing to talk about.
+<Sync time="96.867"/>
+I appreciate Vince for bringing it up.
+</Turn>
+<Turn speaker="spk1" startTime="98.349" endTime="98.735">
+<Sync time="98.349"/>
+Um hum...
+</Turn>
+<Turn speaker="spk2" startTime="98.735" endTime="121.397">
+<Sync time="98.735"/>
+Um... It... It is worth noting, I actually am talking about it here as opposed to when I
+<Sync time="102.447"/>
+replied to him when I might say I am talking about it
+<Sync time="104.379"/>
+Um...
+<Sync time="104.967"/>
+No, but this opens up a really interesting can of worms.
+<Sync time="107.705"/>
+Um... In terms of what we talk about
+<Sync time="110.605"/>
+and we talked about on our last episode how...
+<Sync time="113.0"/>
+how language is culture.
+<Sync time="114.4"/>
+Um...
+<Sync time="115.619"/>
+And our language, that is to say the English language
+<Sync time="118.663"/>
+tends to privildge the hearing over the Deaf.
+</Turn>
+<Turn speaker="spk1" startTime="121.397" endTime="122.032">
+<Sync time="121.397"/>
+Right
+</Turn>
+<Turn speaker="spk2" startTime="122.032" endTime="131.787">
+<Sync time="122.032"/>
+Um... Which we definately touched on at least.
+<Sync time="124.359"/>
+Uh, didn't necessarily acknowldge it in terms of using like
+<Sync time="126.818"/>
+terms like 'Do you hear me?'
+<Sync time="128.319"/>
+'Do you understand me?'
+<Sync time="129.313"/>
+as interchangable, or um...
+</Turn>
+<Turn speaker="spk1" startTime="131.787" endTime="133.005">
+<Sync time="131.787"/>
+'Do you see what I am saying?'
+</Turn>
+<Turn speaker="spk2" startTime="133.005" endTime="135.378">
+<Sync time="133.005"/>
+Yes, which totally privildges the sighted community.
+</Turn>
+<Turn speaker="spk1" startTime="135.378" endTime="135.743">
+<Sync time="135.378"/>
+Right
+</Turn>
+<Turn speaker="spk2" startTime="135.743" endTime="144.829">
+<Sync time="135.743"/>
+Like and...
+<Sync time="137.791"/>
+So...
+<Sync time="139.618"/>
+I think... I think this speeks to
+<Sync time="142.01"/>
+how... how incedious these sorts of things can be.
+</Turn>
+<Turn speaker="spk1" startTime="144.829" endTime="145.438">
+<Sync time="144.829"/>
+Yes
+</Turn>
+<Turn speaker="spk2" startTime="145.438" endTime="161.942">
+<Sync time="145.438"/>
+Um... And how deeply ingrained they can be.
+<Sync time="148.6"/>
+Um... You know the...
+<Sync time="151.499"/>
+The use of Mr. Miss. or Mrs.
+<Sync time="154.601"/>
+is one of those thing that
+<Sync time="156.75"/>
+is everywhere. Um... You know. You can't get an
+<Sync time="159.407"/>
+Apple ID with out picking one of those titles
+</Turn>
+<Turn speaker="spk1" startTime="161.942" endTime="162.59">
+<Sync time="161.942"/>
+Right
+</Turn>
+<Turn speaker="spk2" startTime="162.59" endTime="171.899">
+<Sync time="162.59"/>
+Um...
+<Sync time="164.212"/>
+Which privildegs a lot of different things, and talks about heteronormitivity
+<Sync time="168.044"/>
+and these structures of gender that are in
+<Sync time="170.194"/>
+play throughout our entire society
+</Turn>
+<Turn speaker="spk1" startTime="171.899" endTime="172.383">
+<Sync time="171.899"/>
+Um, hum...
+</Turn>
+<Turn speaker="spk2" startTime="172.383" endTime="192.662">
+<Sync time="172.383"/>
+Um...
+<Sync time="173.763"/>
+And I appreciate Vince pointing these out to us, and I think I said as much
+<Sync time="176.317"/>
+because... Um... It needs to be 
+<Sync time="180.272"/>
+recoginized as often as it can.
+<Sync time="182.138"/>
+And it's not necessarily something, like I don't...
+<Sync time="185.342"/>
+I would like to be aware enough
+<Sync time="187.085"/>
+to never use that
+<Sync time="188.342"/>
+term listen again
+<Sync time="189.804"/>
+Um... But... in that way, but I don't think that's going to happen
+</Turn>
+<Turn speaker="spk1" startTime="192.662" endTime="193.251">
+<Sync time="192.662"/>
+Right
+</Turn>
+<Turn speaker="spk2" startTime="193.251" endTime="204.042">
+<Sync time="193.251"/>
+Um... And... And I think being aware of it, and understanding
+<Sync time="196.316"/>
+the implications of it is and important, very important first step.
+<Sync time="199.541"/>
+Um... It's also somewhat privildged of me to be able to make that distinction,
+</Turn>
+<Turn speaker="spk2 spk1" startTime="204.042" endTime="205.543">
+<Sync time="204.042"/>
+<Who nb="1"/>
+and to make that choice
+<Who nb="2"/>
+Sure...
+</Turn>
+<Turn speaker="spk2" startTime="205.543" endTime="206.275">
+<Sync time="205.543"/>
+Um...
+</Turn>
+<Turn speaker="spk1" startTime="206.275" endTime="219.799">
+<Sync time="206.275"/>
+One of the... the interisting things along
+<Sync time="208.222"/>
+this line that the Deaf culture has done is
+<Sync time="211.182"/>
+use a lot of um...
+<Sync time="213.757"/>
+sight, kind of like 
+<Sync time="215.623"/>
+doing that intensionally. Replacing 
+<Sync time="217.853"/>
+you know, 'I hear you' with 'I see you'
+</Turn>
+<Turn speaker="spk2" startTime="219.799" endTime="220.165">
+<Sync time="219.799"/>
+Um, hum...
+</Turn>
+<Turn speaker="spk1" startTime="220.165" endTime="224.606">
+<Sync time="220.165"/>
+Uh, and in stead of the 'Earth' it's the 'Eyerth'
+<Sync time="223.411"/>
+so you have E-Y-E-
+</Turn>
+<Turn speaker="spk2" startTime="224.606" endTime="225.276">
+<Sync time="224.606"/>
+Ahhh...
+</Turn>
+<Turn speaker="spk1" startTime="225.276" endTime="226.838">
+<Sync time="225.276"/>
+R-T-H
+</Turn>
+<Turn speaker="spk1 spk2" startTime="226.838" endTime="227.833">
+<Sync time="226.838"/>
+<Who nb="1"/>
+stuff like that
+<Who nb="2"/>
+Sure... Sure...
+</Turn>
+<Turn speaker="spk1" startTime="227.833" endTime="228.685">
+<Sync time="227.833"/>
+You have
+</Turn>
+<Turn speaker="spk2" startTime="228.685" endTime="229.983">
+<Sync time="228.685"/>
+Instead of the EARth
+</Turn>
+<Turn speaker="spk1" startTime="229.983" endTime="230.653">
+<Sync time="229.983"/>
+Right...
+</Turn>
+<Turn speaker="spk2" startTime="230.653" endTime="230.937">
+<Sync time="230.653"/>
+Yeah...
+</Turn>
+<Turn speaker="spk1" startTime="230.937" endTime="240.589">
+<Sync time="230.937"/>
+So... so to sort of 
+<Sync time="232.6"/>
+to raise 
+<Sync time="233.858"/>
+awareness of those of how those...
+<Sync time="236.777"/>
+those un... unseen or unheard 
+<Sync time="239.595"/>
+useses of language
+</Turn>
+<Turn speaker="spk2" startTime="240.589" endTime="241.076">
+<Sync time="240.589"/>
+Um, hum...
+</Turn>
+<Turn speaker="spk1" startTime="241.076" endTime="244.706">
+<Sync time="241.076"/>
+Um... do shape our thoughts about these issues.
+</Turn>
+<Turn speaker="spk2" startTime="244.706" endTime="251.275">
+<Sync time="244.706"/>
+Simmilar... Simmilar to um...
+<Sync time="246.774"/>
+although some people would find it controversal for some reason, you know, the use of 'herstory'
+</Turn>
+<Turn speaker="spk1" startTime="251.275" endTime="252.797">
+<Sync time="251.275"/>
+Right... Right...
+</Turn>
+<Turn speaker="spk2" startTime="252.797" endTime="262.897">
+<Sync time="252.797"/>
+As sort of this reawareness situation
+<Sync time="256.183"/>
+Um... and so I...
+<Sync time="258.273"/>
+I thank you Vince for... for
+<Sync time="260.22"/>
+following up and calling us out [chuckles].
+</Turn>
+<Turn speaker="spk1" startTime="262.897" endTime="282.468">
+<Sync time="262.897"/>
+Although I... I [chuckles]
+<Sync time="265.028"/>
+You bring that up, one of...
+<Sync time="266.893"/>
+in one of the responses to my essay
+<Sync time="269.247"/>
+from uhm...
+<Sync time="270.829"/>
+a fan on Pateron
+<Sync time="273.019"/>
+she...
+<Sync time="274.843"/>
+gave a very... very long and well thought out response about
+<Sync time="278.129"/>
+the use of social justice...
+<Sync time="280.42"/>
+the use of language in social justice movements,
+</Turn>
+<Turn speaker="spk2" startTime="282.468" endTime="282.874">
+<Sync time="282.468"/>
+Uh huh...
+</Turn>
+<Turn speaker="spk1" startTime="282.874" endTime="306.043">
+<Sync time="282.874"/>
+and was very against it, even as 
+<Sync time="285.369"/>
+a feminist using the term 'herstory'.
+<Sync time="287.216"/>
+She felt that crossed like some line
+<Sync time="289.162"/>
+
+<Sync time="289.69"/>
+
+<Sync time="290.645"/>
+There's a point to where your
+<Sync time="292.571"/>
+intentional modification of the linguistic
+<Sync time="295.026"/>
+norms becomes
+<Sync time="296.59"/>
+pedantic, or
+<Sync time="298.011"/>
+like... impractical.
+<Sync time="299.959"/>
+Right? Or it draws attention to itself
+<Sync time="302.189"/>
+in a way that's... that's not
+<Sync time="303.913"/>
+that doesn't benifit your movement
+<Sync time="305.657"/>
+[chuckles]
+</Turn>
+<Turn speaker="spk2" startTime="306.043" endTime="310.909">
+<Sync time="306.043"/>
+And that's... that's something that is... that has long been
+<Sync time="309.064"/>
+a... a point of contention.
+</Turn>
+<Turn speaker="spk1" startTime="310.909" endTime="311.497">
+<Sync time="310.909"/>
+Right
+</Turn>
+<Turn speaker="spk2" startTime="311.497" endTime="325.94">
+<Sync time="311.497"/>
+And I think we gotta always fall back on the complexities.
+<Sync time="314.115"/>
+You know? This is a complex subject, and one right answer is not the right answer for everybody.
+<Sync time="317.421"/>
+But, it's the same... it's the same way
+<Sync time="319.896"/>
+I think in certain ways
+<Sync time="321.416"/>
+that I've
+<Sync time="322.086"/>
+I do my absolute best to call this
+<Sync time="324.195"/>
+streat here in Austin 'guatelupe' [stresses ending ay sound] [TODO: check spelling]
+</Turn>
+<Turn speaker="spk1" startTime="325.94" endTime="326.631">
+<Sync time="325.94"/>
+Right...
+</Turn>
+<Turn speaker="spk2" startTime="326.631" endTime="330.242">
+<Sync time="326.631"/>
+Um... Because
+<Sync time="329.188"/>
+there's... there's...
+</Turn>
+<Turn speaker="spk1" startTime="330.242" endTime="331.036">
+<Sync time="330.242"/>
+Instead of...
+</Turn>
+<Turn speaker="spk2" startTime="331.036" endTime="2127.558">
+<Sync time="331.036"/>
+Instead of 'guatelupe' [no ay sound]. Which as any Austin native
+<Sync time="333.309"/>
+will tell you how that's pronounced.
+<Sync time="334.953"/>
+And... And it's like well
+<Sync time="337.185"/>
+[unintellagable] no that's not how it's pronounced... 'Well it is in Austin'
+<Sync time="340.163"/>
+And it's like 'Well it is when you're white'
+<Sync time="342.014"/>
 
 </Turn>
 </Section>
