@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <!DOCTYPE Trans SYSTEM "trans-14.dtd">
-<Trans scribe="Aaron Herting (aaron@herting.cc)" audio_filename="Bad Philosophy - Rule Set Update C" version="2" version_date="141114" xml:lang="en">
+<Trans scribe="Aaron Herting (aaron@herting.cc)" audio_filename="Bad Philosophy - Rule Set Update C" version="3" version_date="141201" xml:lang="en">
 <Speakers>
 <Speaker id="spk1" name="Stephen Torrence" check="no" type="male" dialect="native" accent="" scope="local"/>
 <Speaker id="spk2" name="Keven Saunders" check="no" type="male" dialect="native" accent="" scope="local"/>
-<Speaker id="spk3" name="Steven Torrence (reading Vince Tennant)" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk3" name="Stephen Torrence (reading Vince Tennant)" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk4" name="Stephen Torrence (reading squeezie)" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk5" name="DO LATER" check="no" dialect="native" accent="" scope="local"/>
+<Speaker id="spk6" name="Stephen Torrence (reading Wally)" check="no" dialect="native" accent="" scope="local"/>
 </Speakers>
 <Episode program="Bad Philosophy - Rule Set Update C" air_date="November 3, 2014">
 <Section type="report" startTime="0" endTime="2127.558">
@@ -466,7 +469,7 @@ there's... there's...
 <Sync time="330.242"/>
 Instead of...
 </Turn>
-<Turn speaker="spk2" startTime="331.036" endTime="2127.558">
+<Turn speaker="spk2" startTime="331.036" endTime="342.014">
 <Sync time="331.036"/>
 Instead of 'guatelupe' [no ay sound]. Which as any Austin native
 <Sync time="333.309"/>
@@ -477,7 +480,856 @@ And... And it's like well
 [unintellagable] no that's not how it's pronounced... 'Well it is in Austin'
 <Sync time="340.163"/>
 And it's like 'Well it is when you're white'
+</Turn>
+<Turn speaker="spk1" startTime="342.014" endTime="343.11">
 <Sync time="342.014"/>
+Ehhhhh...
+</Turn>
+<Turn speaker="spk2" startTime="343.11" endTime="351.122">
+<Sync time="343.11"/>
+Um... And... It's a little hipster, it's a little ironic,
+<Sync time="346.294"/>
+to be calling it that, but
+<Sync time="348.098"/>
+beyond that, this is how you say that word.
+</Turn>
+<Turn speaker="spk1" startTime="351.122" endTime="355.117">
+<Sync time="351.122"/>
+And it is how it is 
+<Sync time="353.455"/>
+spoken by
+</Turn>
+<Turn speaker="spk1 spk2" startTime="355.117" endTime="357.691">
+<Sync time="355.117"/>
+<Who nb="1"/>
+the street crossing, Um...
+<Who nb="2"/>
+[chuckles]
+</Turn>
+<Turn speaker="spk1" startTime="357.691" endTime="360.367">
+<Sync time="357.691"/>
+that is set there for the blind like
+</Turn>
+<Turn speaker="spk2" startTime="360.367" endTime="360.571">
+<Sync time="360.367"/>
+Yes
+</Turn>
+<Turn speaker="spk1" startTime="360.571" endTime="365.465">
+<Sync time="360.571"/>
+when it says, you know,
+<Sync time="361.463"/>
+'Okay to cross... to cross lamar and guatalupe [stress ending ay]'
+</Turn>
+<Turn speaker="spk2" startTime="365.465" endTime="365.77">
+<Sync time="365.465"/>
+Yeah...
+</Turn>
+<Turn speaker="spk1" startTime="365.77" endTime="374.051">
+<Sync time="365.77"/>
+Or, You know... they say
+<Sync time="367.352"/>
+'45th and guatalupe [stress ending ay]'
+<Sync time="369.484"/>
+So it's like 'Oh, OK. This is clearly what the city
+<Sync time="372.631"/>
+when they looked into this.
+</Turn>
+<Turn speaker="spk2" startTime="374.051" endTime="377.359">
+<Sync time="374.051"/>
+Somebody made that decision.
+<Sync time="375.268"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="377.359" endTime="397.224">
+<Sync time="377.359"/>
+And there's a difference between cutural fun
+<Sync time="380.89"/>
+and then cutural
+<Sync time="382.818"/>
+what's the word we've been using a lot of?
+<Sync time="386.877"/>
+appreciation? appreciation not the... appropriation yeah.
+<Sync time="390.387"/>
+Which I think we touched on a lot the last episode.
+<Sync time="393.937"/>
+But...
+<Sync time="395.479"/>
+Yeah, It's... tricky...
+</Turn>
+<Turn speaker="spk1" startTime="397.224" endTime="398.543">
+<Sync time="397.224"/>
+So thank you Vince for...
+</Turn>
+<Turn speaker="spk2" startTime="398.543" endTime="399.619">
+<Sync time="398.543"/>
+Yeah... Thank you Vince.
+</Turn>
+<Turn speaker="spk1" startTime="399.619" endTime="408.895">
+<Sync time="399.619"/>
+for bringing that up
+<Sync time="400.431"/>
+And... yeah certianly 
+<Sync time="402.258"/>
+there's some very deeply 
+<Sync time="404.754"/>
+ingrained... it's like when we try to do the
+<Sync time="407.352"/>
+linguistic laberynth, right?
+</Turn>
+<Turn speaker="spk2" startTime="408.895" endTime="411.087">
+<Sync time="408.895"/>
+Yeah, it's a little bit like that.
+<Sync time="410.154"/>
+Um...
+</Turn>
+<Turn speaker="spk1" startTime="411.087" endTime="415.291">
+<Sync time="411.087"/>
+And really, you know, drawing attention to our uses of
+<Sync time="413.908"/>
+the pronouns, right?
+</Turn>
+<Turn speaker="spk2" startTime="415.291" endTime="415.778">
+<Sync time="415.291"/>
+Uh huh...
+</Turn>
+<Turn speaker="spk1" startTime="415.778" endTime="419.35">
+<Sync time="415.778"/>
+If we were to do a linguistic laberynth we might do one on
+</Turn>
+<Turn speaker="spk2" startTime="419.35" endTime="420.75">
+<Sync time="419.35"/>
+[Laughts]
+</Turn>
+<Turn speaker="spk1" startTime="420.75" endTime="427.974">
+<Sync time="420.75"/>
+noticing whenever we use 'I hear you' to mean 'I understand you'.
+<Sync time="424.118"/>
+Stuff like that. That could be...
+<Sync time="425.802"/>
+If we keep that rule, in the...
+</Turn>
+<Turn speaker="spk2" startTime="427.974" endTime="431.201">
+<Sync time="427.974"/>
+Well, I've got both change and remove
+<Sync time="429.983"/>
+So, Uh....
+</Turn>
+<Turn speaker="spk1" startTime="431.201" endTime="442.604">
+<Sync time="431.201"/>
+We'll get to that...
+<Sync time="432.642"/>
+So we had another, couple other 
+<Sync time="434.693"/>
+comments, um. One from squeezie [TODO: SPELLING] who is also...
+<Sync time="438.953"/>
+He's also plop, I think. He also goes by squeezie, but he says
+</Turn>
+<Turn speaker="spk4" startTime="442.604" endTime="453.726">
+<Sync time="442.604"/>
+"Hey, you didn't kill any people when you did this.
+<Sync time="444.856"/>
+I think that you exadurated 
+<Sync time="446.624"/>
+in your pateron post, and I didn't like that idea.
+<Sync time="449.241"/>
+I don't have to be ashamed to like what you did."
+</Turn>
+<Turn speaker="spk1" startTime="453.726" endTime="484.064">
+<Sync time="453.726"/>
+I got something along this
+<Sync time="457.58"/>
+response from many people, and I saw this a lot with
+<Sync time="461.351"/>
+the response from paul and tina
+<Sync time="462.777"/>
+and to their stuff. It's like 'Hey,
+<Sync time="464.604"/>
+this isn't that serious...
+<Sync time="465.984"/>
+You're not killing anyone, right?...
+<Sync time="468.439"/>
+This is not super... it's not like you're...'
+<Sync time="471.381"/>
+That kind of deminishes the...
+<Sync time="474.972"/>
+imporance of it as a moral issue.
+<Sync time="478.036"/>
+It's like, Yeah there are definately worse things that I
+<Sync time="481.181"/>
+could've done. Right? There are always...
+</Turn>
+<Turn speaker="spk2" startTime="484.064" endTime="488.001">
+<Sync time="484.064"/>
+That doesn't... It's not a game of whose got it worse.
+</Turn>
+<Turn speaker="spk1" startTime="488.001" endTime="491.675">
+<Sync time="488.001"/>
+Right... that is a, what is it?
+</Turn>
+<Turn speaker="spk2" startTime="491.675" endTime="493.238">
+<Sync time="491.675"/>
+It's a type of fallicy. I don't know which kind.
+</Turn>
+<Turn speaker="spk1" startTime="493.238" endTime="495.916">
+<Sync time="493.238"/>
+It's the slippery slope, I think, or something like that.
+</Turn>
+<Turn speaker="spk2" startTime="495.916" endTime="503.909">
+<Sync time="495.916"/>
+Or the opposite of that.
+<Sync time="496.991"/>
+It's like 'Oh, well this... there's starving kids in Africa...
+<Sync time="501.333"/>
+So, why are we worried about, poor people here.
+</Turn>
+<Turn speaker="spk1" startTime="503.909" endTime="505.106">
+<Sync time="503.909"/>
+First world problems, right?
+</Turn>
+<Turn speaker="spk2" startTime="505.106" endTime="506.892">
+<Sync time="505.106"/>
+First world problems are still problems.
+</Turn>
+<Turn speaker="spk1" startTime="506.892" endTime="507.461">
+<Sync time="506.892"/>
+Yes.
+</Turn>
+<Turn speaker="spk2" startTime="507.461" endTime="509.064">
+<Sync time="507.461"/>
+Um...
+</Turn>
+<Turn speaker="spk1" startTime="509.064" endTime="531.553">
+<Sync time="509.064"/>
+Because it's a recignicion... But I think what he...
+<Sync time="511.945"/>
+what he's doing here is, he's actually drawing attention to something really important,
+<Sync time="514.733"/>
+which is the idea of scope.
+<Sync time="516.762"/>
+Right?
+<Sync time="517.533"/>
+You know...
+<Sync time="518.608"/>
+One thing that I encountered and I think I talked about this a bit on the youtube response
+<Sync time="523.682"/>
+It's really tough to
+<Sync time="526.157"/>
+understand the scope of our actions
+<Sync time="529.321"/>
+in the networked world now.
+</Turn>
+<Turn speaker="spk2" startTime="531.553" endTime="532.182">
+<Sync time="531.553"/>
+Um hum...
+</Turn>
+<Turn speaker="spk1" startTime="532.182" endTime="541.639">
+<Sync time="532.182"/>
+When I was creating my signlanguage videos initially 
+<Sync time="536.038"/>
+I had a certain scope in mind.
+<Sync time="537.581"/>
+Right? I'm producing these videos for
+<Sync time="539.975"/>
+the Jonathan Coulton community
+</Turn>
+<Turn speaker="spk2" startTime="541.639" endTime="547.869">
+<Sync time="541.639"/>
+Right... At the biggest... In other words,
+<Sync time="544.946"/>
+your friends and people who randomly stumbled upon these things.
+</Turn>
+<Turn speaker="spk1" startTime="547.869" endTime="586.172">
+<Sync time="547.869"/>
+Sure, but the structure of YouTube it self
+<Sync time="551.158"/>
+allows this... allows for rapid and 
+<Sync time="555.205"/>
+huge changes in scope, given certain other factors.
+<Sync time="559.773"/>
+So AOL coming in and seeing my videos
+<Sync time="561.84"/>
+and reposting them in a compleatly different context
+<Sync time="565.391"/>
+exploded the scope
+<Sync time="567.522"/>
+and changed a lot of...
+<Sync time="569.551"/>
+It took this thing that, you know, it made it
+<Sync time="573.101"/>
+to where I couldn't have
+<Sync time="575.252"/>
+predicted the
+<Sync time="576.754"/>
+eventual scope. Right?
+<Sync time="579.231"/>
+And if I were producing my videos with the idea of
+<Sync time="581.727"/>
+"This could be seen by every single person on the planet"
+<Sync time="584.407"/>
+I might not produce anything at all.
+</Turn>
+<Turn speaker="spk2 spk1" startTime="586.172" endTime="588.708">
+<Sync time="586.172"/>
+<Who nb="1"/>
+[Laughs]
+
+<Who nb="2"/>
+[Laughs]
+</Turn>
+<Turn speaker="spk1" startTime="588.708" endTime="594.125">
+<Sync time="588.708"/>
+Right? But that's sort of, when people post on Twitter,
+<Sync time="592.076"/>
+their tweets coule be put on CNN.
+</Turn>
+<Turn speaker="spk2" startTime="594.125" endTime="597.739">
+<Sync time="594.125"/>
+Uh huh...
+<Sync time="594.979"/>
+Which is more CNN's problem then Twitter's
+<Sync time="597.069"/>
+problem, but... [Laughs]
+</Turn>
+<Turn speaker="spk1" startTime="597.739" endTime="622.697">
+<Sync time="597.739"/>
+But is it? Is there...
+<Sync time="600.701"/>
+Who's onus [TODO: SPELLING] is it on?
+<Sync time="603.176"/>
+Is it on the creators to anticipate 
+<Sync time="606.017"/>
+and shape their content
+<Sync time="607.782"/>
+for the scopes they anticipate they will reach
+<Sync time="610.095"/>
+or is it on the onus of someone who
+<Sync time="612.956"/>
+does a very intentional 
+<Sync time="615.026"/>
+scope expansion
+<Sync time="616.284"/>
+to ask whether
+<Sync time="618.009"/>
+this is a thing that will be well recieved and 
+<Sync time="620.119"/>
+how it will be received in that broader context
+</Turn>
+<Turn speaker="spk5" startTime="622.697" endTime="628.754">
+<Sync time="622.697"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="628.754" endTime="634.517">
+<Sync time="628.754"/>
+I do think CNN reading Facebook posts 
+<Sync time="631.371"/>
+on the news is not
+<Sync time="633.624"/>
+news.
+</Turn>
+<Turn speaker="spk1" startTime="634.517" endTime="636.08">
+<Sync time="634.517"/>
+Right. [Laughs]
+</Turn>
+<Turn speaker="spk2" startTime="636.08" endTime="639.083">
+<Sync time="636.08"/>
+But I yell at morning news shows every morning,
+<Sync time="638.657"/>
+so...
+</Turn>
+<Turn speaker="spk1" startTime="639.083" endTime="639.814">
+<Sync time="639.083"/>
+Yeah...
+</Turn>
+<Turn speaker="spk2" startTime="639.814" endTime="647.464">
+<Sync time="639.814"/>
+We play a game in our house
+<Sync time="640.93"/>
+where we, if Amy and I are both up at the same time we'll turn on
+<Sync time="642.817"/>
+the morning news, like The Today Show, or the other one.
+<Sync time="644.948"/>
+And see how long I can last
+</Turn>
+<Turn speaker="spk5" startTime="647.464" endTime="651.849">
+<Sync time="647.464"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="651.849" endTime="653.19">
+<Sync time="651.849"/>
+grumpy in the mornings
+</Turn>
+<Turn speaker="spk1" startTime="653.19" endTime="653.982">
+<Sync time="653.19"/>
+[Laughs]
+</Turn>
+<Turn speaker="spk2" startTime="653.982" endTime="664.328">
+<Sync time="653.982"/>
+And, Amy just turns it on to watch something while she having 
+<Sync time="656.437"/>
+breakfast, and I'll, if I'm working at my computer,
+<Sync time="658.486"/>
+or something, and I just...
+<Sync time="659.602"/>
+eventually we just turn it off.
+<Sync time="662.097"/>
+Ebola has gotten me a lot of yelling lately.
+</Turn>
+<Turn speaker="spk1" startTime="664.328" endTime="664.795">
+<Sync time="664.328"/>
+Oh, man...
+</Turn>
+<Turn speaker="spk2" startTime="664.795" endTime="667.29">
+<Sync time="664.795"/>
+Not the fact that we have Ebola in America,
+</Turn>
+<Turn speaker="spk1" startTime="667.29" endTime="668.081">
+<Sync time="667.29"/>
+But the way it's being...
+</Turn>
+<Turn speaker="spk2" startTime="668.081" endTime="670.333">
+<Sync time="668.081"/>
+the way it's being reported.
+<Sync time="669.136"/>
+And Uh...
+</Turn>
+<Turn speaker="spk5" startTime="670.333" endTime="673.618">
+<Sync time="670.333"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="673.618" endTime="676.032">
+<Sync time="673.618"/>
+So we have one more comment, from Wally [TODO: SPELLING]
+</Turn>
+<Turn speaker="spk6" startTime="676.032" endTime="678.69">
+<Sync time="676.032"/>
+"Great episode! Really got my gears turning!"
+</Turn>
+<Turn speaker="spk1" startTime="678.69" endTime="684.593">
+<Sync time="678.69"/>
+There's a mechanical analigy
+<Sync time="681.773"/>
+for understanding that doesn't 
+<Sync time="683.234"/>
+privildge any... Well...
+</Turn>
+<Turn speaker="spk2" startTime="684.593" endTime="685.242">
+<Sync time="684.593"/>
+Robots...
+</Turn>
+<Turn speaker="spk5" startTime="685.242" endTime="689.434">
+<Sync time="685.242"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="689.434" endTime="691.77">
+<Sync time="689.434"/>
+Hey, as far as we know they're not sentiant yet.
+</Turn>
+<Turn speaker="spk1" startTime="691.77" endTime="696.923">
+<Sync time="691.77"/>
+As far as we know.
+<Sync time="692.764"/>
+And fewer of them have gears these days.
+<Sync time="695.807"/>
+Just a lot of servos and circuits
+</Turn>
+<Turn speaker="spk2" startTime="696.923" endTime="698.667">
+<Sync time="696.923"/>
+A lot of arduinos
+</Turn>
+<Turn speaker="spk1" startTime="698.667" endTime="700.067">
+<Sync time="698.667"/>
+Yup. Um...
+</Turn>
+<Turn speaker="spk6" startTime="700.067" endTime="724.43">
+<Sync time="700.067"/>
+"You guys, touch on punching up,
+<Sync time="702.277"/>
+sticking it to the man, telling truth to power. That kind of stuff.
+<Sync time="705.259"/>
+Vs. punching down, making fun of those beneath you, on the power scale.
+<Sync time="708.747"/>
+But it seams to me that 
+<Sync time="710.755"/>
+there is some value in punching down,
+<Sync time="713.128"/>
+pointing out flaws in those lower on the social scale, that are actually keeping those people down.
+<Sync time="717.979"/>
+Maybe the Onion is a good example of this,
+<Sync time="720.271"/>
+they seem to punch down with a fair amount of frequency,
+<Sync time="722.665"/>
+about as much as they punch up anyway."
+</Turn>
+<Turn speaker="spk1" startTime="724.43" endTime="725.485">
+<Sync time="724.43"/>
+Do they?
+</Turn>
+<Turn speaker="spk2" startTime="725.485" endTime="748.144">
+<Sync time="725.485"/>
+I'm gonna... No. I'm gonna give an example of,
+<Sync time="729.096"/>
+and this might be super tasteless
+<Sync time="731.712"/>
+and please Stephen let me know if it is,
+<Sync time="734.775"/>
+but I think it's an example that will
+<Sync time="738.446"/>
+benifit what punching down means
+<Sync time="741.022"/>
+in a way that when someone in power does it,
+<Sync time="744.085"/>
+is not
+<Sync time="745.687"/>
+benifiting anybody, but seems like it is.
+</Turn>
+<Turn speaker="spk1" startTime="748.144" endTime="749.118">
+<Sync time="748.144"/>
+OK...
+</Turn>
+<Turn speaker="spk2" startTime="749.118" endTime="768.389">
+<Sync time="749.118"/>
+"Man..." I'm not going to use racially insensitive terms here, I'm gonna do my best to avoid that.
+<Sync time="753.62"/>
+"Man... All them Native Americans sure are silly, what with there 
+<Sync time="757.109"/>
+irrational belief systems,
+<Sync time="759.3"/>
+sure is gonna suck when they go to hell.
+<Sync time="761.371"/>
+We should teach them about Jesus."
+<Sync time="762.832"/>
+Um... And... I'm trying to do it in like talk show host voice, but
+</Turn>
+<Turn speaker="spk1" startTime="768.389" endTime="768.856">
+<Sync time="768.389"/>
+Sure
+</Turn>
+<Turn speaker="spk2" startTime="768.856" endTime="772.588">
+<Sync time="768.856"/>
+You know, I can't make a joke about that because
+<Sync time="770.986"/>
+it like literally makes me angry.
+</Turn>
+<Turn speaker="spk1" startTime="772.588" endTime="773.623">
+<Sync time="772.588"/>
+Okay
+</Turn>
+<Turn speaker="spk2" startTime="773.623" endTime="783.643">
+<Sync time="773.623"/>
+Um... But that's punching down, and it's punching down...
+<Sync time="778.673"/>
+the flaws that are often seen are not...
+</Turn>
+<Turn speaker="spk1" startTime="783.643" endTime="786.18">
+<Sync time="783.643"/>
+They're flaws within the context of the punchers
+</Turn>
+<Turn speaker="spk5" startTime="786.18" endTime="789.019">
+<Sync time="786.18"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="789.019" endTime="791.697">
+<Sync time="789.019"/>
+"You sure would be better if you made more money, you poor people..."
+</Turn>
+<Turn speaker="spk1" startTime="791.697" endTime="792.265">
+<Sync time="791.697"/>
+Right
+</Turn>
+<Turn speaker="spk2" startTime="792.265" endTime="793.424">
+<Sync time="792.265"/>
+"... Why don't you make more money?"
+</Turn>
+<Turn speaker="spk5" startTime="793.424" endTime="795.432">
+<Sync time="793.424"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="795.432" endTime="796.568">
+<Sync time="795.432"/>
+"Why don't you work harder?"
+</Turn>
+<Turn speaker="spk5" startTime="796.568" endTime="801.821">
+<Sync time="796.568"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="801.821" endTime="806.77">
+<Sync time="801.821"/>
+if that's the meaning, if that's the subtext, 
+<Sync time="804.418"/>
+you're not benifiting anybody.
+</Turn>
+<Turn speaker="spk1" startTime="806.77" endTime="807.298">
+<Sync time="806.77"/>
+Right...
+</Turn>
+<Turn speaker="spk2" startTime="807.298" endTime="812.959">
+<Sync time="807.298"/>
+One of the things about systematic oppression 
+<Sync time="811.681"/>
+is that it's systematic.
+</Turn>
+<Turn speaker="spk1" startTime="812.959" endTime="813.669">
+<Sync time="812.959"/>
+Right
+</Turn>
+<Turn speaker="spk2" startTime="813.669" endTime="825.94">
+<Sync time="813.669"/>
+Um... You know... Telling poor people to work harder doesn't seem to fix problems.
+<Sync time="817.482"/>
+ 
+<Sync time="819.369"/>
+Nor does
+<Sync time="820.525"/>
+telling a racial minority to just assimalate and get along with everybody.
+<Sync time="824.033"/>
+It doesn't fix things.
+</Turn>
+<Turn speaker="spk5" startTime="825.94" endTime="830.526">
+<Sync time="825.94"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="830.526" endTime="850.228">
+<Sync time="830.526"/>
+don't help break down those structures.
+<Sync time="834.002"/>
+Where as punching up typically does
+<Sync time="837.105"/>
+because those structures are controlled by those in power
+<Sync time="839.64"/>
+and there's lots of types of power, we've talked about those, 
+<Sync time="842.601"/>
+It's not just government for example
+<Sync time="846.596"/>
+there's lots of structural powers that exist
+<Sync time="848.889"/>
+just ask karl marx
+</Turn>
+<Turn speaker="spk1" startTime="850.228" endTime="852.52">
+<Sync time="850.228"/>
+Right... [laughs]
+</Turn>
+<Turn speaker="spk2" startTime="852.52" endTime="864.507">
+<Sync time="852.52"/>
+But, I think that's
+<Sync time="854.65"/>
+the distinction there. I personally can't
+<Sync time="858.442"/>
+think of any instance
+<Sync time="861.242"/>
+where I know the Onion punched down, and I was like "really the Onion?"
+</Turn>
+<Turn speaker="spk5" startTime="864.507" endTime="867.226">
+<Sync time="864.507"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="867.226" endTime="878.545">
+<Sync time="867.226"/>
+Before the show looking at the Onion a little bit 
+<Sync time="870.025"/>
+it really  does seem like
+<Sync time="871.75"/>
+when it appears they are punching down, like
+<Sync time="874.528"/>
+punching hipsters or what ever
+<Sync time="876.07"/>
+they're really punching 
+</Turn>
+<Turn speaker="spk2" startTime="878.545" endTime="883.006">
+<Sync time="878.545"/>
+They're looking at the structures in place.
+<Sync time="880.431"/>
+They're making fun of that structure that keeps somebody
+</Turn>
+<Turn speaker="spk5" startTime="883.006" endTime="885.238">
+<Sync time="883.006"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="885.238" endTime="887.754">
+<Sync time="885.238"/>
+is generally still a privildged thing.
+</Turn>
+<Turn speaker="spk5" startTime="887.754" endTime="892.989">
+<Sync time="887.754"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="892.989" endTime="897.047">
+<Sync time="892.989"/>
+I don't know if hipsters do a lot of defense of themselves as victims
+</Turn>
+<Turn speaker="spk5" startTime="897.047" endTime="904.084">
+<Sync time="897.047"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="904.084" endTime="908.1">
+<Sync time="904.084"/>
+And if they use the word "dude", probably not a hipster.
+<Sync time="906.518"/>
+Um, or maybe...
+</Turn>
+<Turn speaker="spk5" startTime="908.1" endTime="912.38">
+<Sync time="908.1"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="912.38" endTime="950.169">
+<Sync time="912.38"/>
+that's sort of how we come down on it Wally, but thank you for bringing that up and
+<Sync time="916.335"/>
+letting us flesh out a bit more what the punching up and down sutff is.
+<Sync time="920.047"/>
+Um, for those of y'all who didn't
+<Sync time="921.508"/>
+read the show notes on the last show, we also,
+<Sync time="924.205"/>
+I also included a really good discussion about the distinctions there from 
+<Sync time="928.87"/>
+uh, I think his name is Mike MacIntosh [TODO: SPELLING].
+<Sync time="931.223"/>
+Uh... Johnathan MacIntosh called "Hacking Popculture and the Ethics of Appropration" He goes into a lot of detail on this.
+<Sync time="938.605"/>
+from experiance and I think he's got it right.
+<Sync time="941.486"/>
+Okay. Well let's
+<Sync time="944.812"/>
+take a step back here and
+<Sync time="946.639"/>
+look at the last three episodes.
+<Sync time="948.363"/>
+How did we do Kevin?
+</Turn>
+<Turn speaker="spk2" startTime="950.169" endTime="954.388">
+<Sync time="950.169"/>
+Well there was a sharp left turn in the middle of our
+<Sync time="953.779"/>
+arc. 
+</Turn>
+<Turn speaker="spk1" startTime="954.388" endTime="955.018">
+<Sync time="954.388"/>
+Definately...
+</Turn>
+<Turn speaker="spk2" startTime="955.018" endTime="963.685">
+<Sync time="955.018"/>
+We started talking about 
+<Sync time="956.843"/>
+privicy and internet culture and 
+<Sync time="959.929"/>
+well interntet...
+<Sync time="961.998"/>
+and how things
+</Turn>
+<Turn speaker="spk5" startTime="963.685" endTime="966.97">
+<Sync time="963.685"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="966.97" endTime="968.471">
+<Sync time="966.97"/>
+keep a through line of  just
+</Turn>
+<Turn speaker="spk5" startTime="968.471" endTime="978.211">
+<Sync time="968.471"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="978.211" endTime="982.492">
+<Sync time="978.211"/>
+there exists somewhere a curve
+<Sync time="980.424"/>
+that fits
+</Turn>
+<Turn speaker="spk5" startTime="982.492" endTime="985.838">
+<Sync time="982.492"/>
+
+</Turn>
+<Turn speaker="spk1" startTime="985.838" endTime="989.347">
+<Sync time="985.838"/>
+Just keep raising the power of the curve
+</Turn>
+<Turn speaker="spk5" startTime="989.347" endTime="994.092">
+<Sync time="989.347"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="994.092" endTime="996.041">
+<Sync time="994.092"/>
+So in the first one, we started with
+</Turn>
+<Turn speaker="spk5" startTime="996.041" endTime="998.415">
+<Sync time="996.041"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="998.415" endTime="1006.474">
+<Sync time="998.415"/>
+which is where we discussed 
+<Sync time="1000.79"/>
+how the Internet effects
+<Sync time="1003.266"/>
+history
+<Sync time="1004.81"/>
+and memory and things like that
+</Turn>
+<Turn speaker="spk1" startTime="1006.474" endTime="1007.448">
+<Sync time="1006.474"/>
+Oh yeah...
+</Turn>
+<Turn speaker="spk2" startTime="1007.448" endTime="1026.639">
+<Sync time="1007.448"/>
+And how memory is effected by these things we remember, and these artificial memory aids.
+<Sync time="1011.769"/>
+Things like time hop and the like.
+<Sync time="1013.777"/>
+Then we moved on to "The Right to [Redacted]"
+<Sync time="1017.509"/>
+which was about hiding that history.
+<Sync time="1019.457"/>
+and sort of removing 
+<Sync time="1021.203"/>
+that history and is it possible to do so, is it right to do so, should you be allowed to do so.
+</Turn>
+<Turn speaker="spk1" startTime="1026.639" endTime="1027.575">
+<Sync time="1026.639"/>
+Yeah, Yeah
+</Turn>
+<Turn speaker="spk2" startTime="1027.575" endTime="1039.911">
+<Sync time="1027.575"/>
+And then we had a sharp right turn, but I'm still gonna make it fit
+<Sync time="1031.045"/>
+by discussing some of our own Internet history
+<Sync time="1033.296"/>
+um and these sorts of things. Which I think
+<Sync time="1036.055"/>
+actually does come into play. 
+<Sync time="1037.477"/>
+Sort of dealing with the question of, so we've had this revilation [TODO: CONFIRM]
+</Turn>
+<Turn speaker="spk1" startTime="1039.911" endTime="1040.359">
+<Sync time="1039.911"/>
+Yeah
+</Turn>
+<Turn speaker="spk2" startTime="1040.359" endTime="1048.696">
+<Sync time="1040.359"/>
+about these videos, and you.
+<Sync time="1042.307"/>
+I think
+<Sync time="1043.727"/>
+I'm OK with the decision,
+<Sync time="1045.086"/>
+decided to leaves these videos up
+<Sync time="1046.648"/>
+but put disclaimers on them and 
+</Turn>
+<Turn speaker="spk5" startTime="1048.696" endTime="1052.409">
+<Sync time="1048.696"/>
+
+</Turn>
+<Turn speaker="spk2" startTime="1052.409" endTime="2127.558">
+<Sync time="1052.409"/>
+this is a bit of a problem, here's why
+<Sync time="1055.86"/>
+go look at these things, go do this instead.
+<Sync time="1057.868"/>
+spend your time else where.
+<Sync time="1059.491"/>
+as sort of a redirect
+<Sync time="1061.074"/>
+Which is something we didn't really talk about was redirecting history.
+<Sync time="1063.934"/>
 
 </Turn>
 </Section>
